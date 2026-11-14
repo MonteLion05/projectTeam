@@ -1,0 +1,5 @@
+# Host-side scripts (Spark and Jupyter run inside Docker)
+confluent-kafka==2.16.1
+pywikibot==11.10.0
+requests==2.34.2
+tqdm==4.70.1
