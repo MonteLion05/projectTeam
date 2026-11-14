@@ -1,0 +1,10 @@
+data/
+*.tsv
+*.tsv.gz
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+checkpoints/
+spark-warehouse/
+.env
+data/
