@@ -1,61 +1,44 @@
-# %% Dependencies
-import socket
-import json
-import time
+"""Forward live Wikimedia recent changes to Kafka for a bounded test."""
+import argparse,json,time,os
+import requests
 from confluent_kafka import Producer
-from pywikibot.comms.eventstreams import EventStreams
-from datetime import datetime, timedelta
-
-# %% Helper Functions
-# Serializer function to change message from python dict to json
-value_serializer = lambda val: json.dumps(val).encode('utf-8')
-
-# %% Producder Instantiation
-# Set the producer configuration
-conf = {'bootstrap.servers': 'localhost:9092',
-        'client.id': socket.gethostname(),
-        'compression.type': 'lz4'
-}
-
-# Instantiate the producer
-producer = Producer(conf)
-
-# %% Create wikistreams query
-stream = EventStreams(
-  streams=['recentchange', 'revision-create'], since='20260209'
-)
-stream.register_filter(server_name='fr.wikipedia.org', type='edit')
-
-# %% Query EventStream
-# Run a single query and inspect raw and example formatted output
-change = next(stream)
-print('Raw Message: ' + str(change))
-print(
-  '\n' # Add line breakd between outputs
-  'Formatted Message: {type} on page "{title}" by "{user}" at {meta[dt]}.'
-  .format(**change)
-)
-
-# %% Streaming Query
-duration = 10 # Streaming window in minutes
-start_time = datetime.now() # Current clock time
-stop_time = start_time + timedelta(minutes=duration) #start+duration=stop
-
-# Query stream for <duration> minutes
-# Uncomment print change to examine output in interactive env
-topic='wikistreams'
-while datetime.now() < stop_time:
-  change = next(stream)
-  producer.produce(
-    topic=topic,
-    value=value_serializer(change)
-  )
-  print(' ')
-  print(change)
-
-# Close producer after run duration
-print('\n wait 1 minute for last messages and then close producer')
-time.sleep(60)
-print('\n closing producer')
-producer.close()
-print('')
+from confluent_kafka.admin import AdminClient,NewTopic
+p=argparse.ArgumentParser();p.add_argument('--seconds',type=int,default=1800);p.add_argument('--contact',required=True)
+p.add_argument('--broker',default='localhost:9092');p.add_argument('--topic',default='wikistreams');a=p.parse_args()
+admin=AdminClient({'bootstrap.servers':a.broker})
+for future in admin.create_topics([NewTopic(a.topic,1,1)]).values():
+    try:future.result()
+    except Exception as e:
+        if 'TOPIC_ALREADY_EXISTS' not in str(e):raise
+producer=Producer({'bootstrap.servers':a.broker})
+metrics={'sent':0,'delivered':0,'failed':0,'started_at':time.time()}
+def delivered(error,message):
+    metrics['failed' if error else 'delivered']+=1
+end=time.monotonic()+a.seconds
+try:
+    while time.monotonic()<end:
+        try:
+            with requests.get('https://stream.wikimedia.org/v2/stream/recentchange',stream=True,
+                headers={'User-Agent':f'ECE-IMDb-course/1.0 ({a.contact})','Accept':'text/event-stream'},timeout=(20,20)) as response:
+                response.raise_for_status();parts=[]
+                for line in response.iter_lines(decode_unicode=True):
+                    if time.monotonic()>=end:break
+                    if line.startswith('data:'):parts.append(line[5:].lstrip())
+                    elif not line and parts:
+                        try:event=json.loads('\n'.join(parts))
+                        except json.JSONDecodeError:parts=[];continue
+                        parts=[]
+                        if event.get('namespace')!=0 or event.get('type') not in ('edit','new'):continue
+                        # All Wikipedia languages are retained; IMDb matching happens in Spark.
+                        if not event.get('server_name','').endswith('.wikipedia.org'):continue
+                        encoded=json.dumps(event).encode()
+                        while True:
+                            try:producer.produce(a.topic,value=encoded,on_delivery=delivered);break
+                            except BufferError:producer.poll(1)
+                        producer.poll(0);metrics['sent']+=1
+        except requests.RequestException as e:print('Reconnect:',e,flush=True);time.sleep(2)
+finally:
+    remaining=producer.flush(30);metrics.update(queued_at_exit=remaining,finished_at=time.time())
+    os.makedirs('results/streaming',exist_ok=True)
+    with open('results/streaming/producer_metrics.json','w') as f:json.dump(metrics,f,indent=2)
+    print(metrics)
