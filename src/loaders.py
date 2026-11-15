@@ -44,3 +44,7 @@ def read_typed(spark, table):
             .cast(dtype),
         )
     return df
+
+def read_clean(spark, table):
+    """Clean table (after quality.clean_all): typed, null for missing, dq_flags."""
+    return spark.read.parquet(f"{DATA_DIR}/parquet/clean/{table}")
