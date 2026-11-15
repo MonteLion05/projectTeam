@@ -1,8 +1,9 @@
+name: projectteam-main
 
 services:
   kafka:
     image: apache/kafka-native:4.1.1
-    container_name: kafka
+    container_name: imdb_kafka
     ports:
       - "9092:9092"
       - "9093:9093"
@@ -23,23 +24,30 @@ services:
 
   pyspark-notebook:
     image: quay.io/jupyter/pyspark-notebook
-    container_name: pyspark_notebook
+    container_name: imdb_pyspark_notebook
     user: root
     ports:
       - "8888:8888"
       - "4040:4040"
       - "4041:4041"
     environment:
-      - NB_UID=${UID:-1000}
-      - NB_GID=${GID:-1000}
-      - CHOWN_EXTRA=/home/jovyan/work,/home/jovyan/jobs,/home/jovyan/data
-      - CHOWN_EXTRA_OPTS=-R
+      NB_UID: "${UID:-1000}"
+      NB_GID: "${GID:-1000}"
+      SPARK_LOCAL_DIRS: /spark-tmp
+      TMPDIR: /spark-tmp
+      PYTHONPATH: /home/jovyan
+      INPUT_FORMAT: "${INPUT_FORMAT:-tsv}"
+      RESULTS_DIR: /home/jovyan/results
     volumes:
-      - ${PROJECT_DIR:-.}/notebooks:/home/jovyan/work
-      - ${PROJECT_DIR:-.}/jobs:/home/jovyan/jobs
-      - ${PROJECT_DIR:-.}/data:/home/jovyan/data
+      - ./notebooks:/home/jovyan/work
+      - ./jobs:/home/jovyan/jobs
+      - ${IMDB_DATA_DIR:-./data}:/home/jovyan/data
       - ./src:/home/jovyan/src
       - ./scripts:/home/jovyan/scripts
+      - ./tests:/home/jovyan/tests
+      - ${IMDB_TEMP_DIR:-./spark-tmp}:/spark-tmp
+      - ./streaming:/home/jovyan/streaming
+      - ${IMDB_RESULTS_DIR:-./results}:/home/jovyan/results
     networks:
       - kafka-spark-net
     depends_on:
