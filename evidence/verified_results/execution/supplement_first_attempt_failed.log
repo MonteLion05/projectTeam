@@ -1,0 +1,103 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/11/15 23:37:23 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+26/11/15 23:37:23 WARN MacAddressUtil: Failed to find a usable hardware address from the network interfaces; using random bytes: a0:68:75:a6:c7:f1:7b:88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traceback (most recent call last):
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 540, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspace/scratch/ce30a6386c6f/fresh-analysis/supplement.py", line 26, in <module>
+    assert enriched.count()==old.count()
+           ^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/pyspark/sql/classic/dataframe.py", line 439, in count
+    return int(self._jdf.count())
+               ^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/java_gateway.py", line 1361, in __call__
+    answer = self.gateway_client.send_command(command)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/java_gateway.py", line 1057, in send_command
+    response = self.send_command(command, retry, binary=binary)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/java_gateway.py", line 1036, in send_command
+    connection = self._get_connection()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 284, in _get_connection
+    connection = self._create_new_connection()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 291, in _create_new_connection
+    connection.connect_to_java_server()
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 438, in connect_to_java_server
+    self.socket.connect((self.java_address, self.java_port))
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspace/scratch/ce30a6386c6f/fresh-analysis/supplement.py", line 36, in <module>
+    finally:s.stop()
+            ^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/pyspark/sql/session.py", line 2023, in stop
+    self._sc.stop()
+  File "/home/agent/.local/lib/python3.12/site-packages/pyspark/core/context.py", line 684, in stop
+    self._jsc.stop()
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/java_gateway.py", line 1361, in __call__
+    answer = self.gateway_client.send_command(command)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/java_gateway.py", line 1036, in send_command
+    connection = self._get_connection()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 284, in _get_connection
+    connection = self._create_new_connection()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 291, in _create_new_connection
+    connection.connect_to_java_server()
+  File "/home/agent/.local/lib/python3.12/site-packages/py4j/clientserver.py", line 438, in connect_to_java_server
+    self.socket.connect((self.java_address, self.java_port))
+ConnectionRefusedError: [Errno 111] Connection refused

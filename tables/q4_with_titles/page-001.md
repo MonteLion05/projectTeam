@@ -1,0 +1,57 @@
+# q4_with_titles results
+
+Page 1 of 1 | Total data rows: 47
+
+[Back to report](../../REPORT.md)
+
+| excellent_film | nconst | excellent | other_count | other_mean | primaryName | excellent_film_title |
+| --- | --- | --- | --- | --- | --- | --- |
+| tt3741834 | nm0204628 | 1 | 2 | 5.65 | Garth Davis | Lion |
+| tt0416960 | nm0846092 | 1 | 4 | 5.525 | Kamal Tabrizi | The Lizard |
+| tt0808417 | nm1749112 | 1 | 3 | 5.7 | Vincent Paronnaud | Persepolis |
+| tt0422320 | nm1359360 | 1 | 5 | 5.4399999999999995 | Dharani | Ghilli |
+| tt0377575 | nm1434372 | 1 | 2 | 5.8 | Johny Antony | C.I.D. Moosa |
+| tt0290937 | nm0803350 | 1 | 4 | 5.25 | Sangeeth Sivan | Yoddha |
+| tt0401792 | nm0588340 | 1 | 2 | 5.65 | Frank Miller | Sin City |
+| tt0401792 | nm0001675 | 1 | 22 | 5.9409090909090905 | Robert Rodriguez | Sin City |
+| tt0425333 | nm1729063 | 1 | 3 | 5.900000000000001 | Mert Baykal | Pardon |
+| tt35445387 | nm1048560 | 1 | 2 | 5.449999999999999 | Marcus Raboy | Conan O'Brien: The Kennedy Center Mark Twain Prize for American Humor |
+| tt3322420 | nm2134474 | 1 | 6 | 5.833333333333333 | Vikas Bahl | Queen |
+| tt0434409 | nm0574625 | 1 | 4 | 5.975 | James McTeigue | V for Vendetta |
+| tt2877108 | nm5650589 | 1 | 2 | 5.95 | Nalan Kumarasamy | Soodhu Kavvum |
+| tt0167404 | nm0796117 | 1 | 15 | 5.866666666666666 | M. Night Shyamalan | The Sixth Sense |
+| tt0381061 | nm0132709 | 1 | 16 | 5.91875 | Martin Campbell | Casino Royale |
+| tt0118751 | nm0244892 | 1 | 4 | 5.325 | J.P. Dutta | Border |
+| tt36853476 | nm6252943 | 1 | 2 | 5.75 | Harish Vyas | Om Ka Hari |
+| tt39150248 | nm2735803 | 1 | 2 | 5.9 | Saurabh Varma | The Great Punjab Robbery |
+| tt8144834 | nm5120912 | 1 | 3 | 4.633333333333333 | Ajay Bahl | Section 375 |
+| tt6246170 | nm0062614 | 1 | 6 | 5.3 | Harry Baweja | Chaar Sahibzaade 2: Rise of Banda Singh Bahadur |
+| tt0220656 | nm1703622 | 1 | 3 | 5.833333333333333 | R. Madhesh | Mudhalvan |
+| tt0282864 | nm0092632 | 1 | 2 | 5.85 | Carlos Bolado | Promises |
+| tt10554232 | nm0031342 | 1 | 5 | 5.7 | Predrag Antonijevic | Dara of Jasenovac |
+| tt0338564 | nm0490487 | 1 | 21 | 5.995238095238095 | Wai Keung Lau | Infernal Affairs |
+| tt0093970 | nm0389514 | 1 | 2 | 4.6 | David Hogan | Sign 'o' the Times |
+| tt0093970 | nm0536299 | 1 | 4 | 5.800000000000001 | Albert Magnoli | Sign 'o' the Times |
+| tt0093970 | nm0002239 | 1 | 2 | 4.9 | Prince | Sign 'o' the Times |
+| tt6380520 | nm8678191 | 1 | 2 | 5.15 | Karthick Naren | Dhuruvangal Pathinaaru |
+| tt1339248 | nm0890864 | 1 | 5 | 5.24 | P. Vasu | Aapthamitra |
+| tt21108804 | nm0536705 | 1 | 4 | 5.15 | Ananth Mahadevan | Phule |
+| tt2283748 | nm1084488 | 1 | 6 | 5.583333333333333 | Umesh Shukla | OMG: Oh My God! |
+| tt7638556 | nm2259353 | 1 | 2 | 5.6 | Christopher Ashley | Come from Away |
+| tt0044560 | nm0735879 | 1 | 2 | 5.949999999999999 | Ismael Rodríguez | Two Careful Fellows |
+| tt0065687 | nm0761522 | 1 | 2 | 5.6 | Denis Sanders | Elvis: That's the Way It Is |
+| tt1517561 | nm1318819 | 1 | 2 | 4.55 | Ezhil | Thulladha Manamum Thullum |
+| tt0246578 | nm0446819 | 1 | 2 | 5.449999999999999 | Richard Kelly | Donnie Darko |
+| tt0366840 | nm0348015 | 1 | 6 | 5.383333333333333 | Gunasekhar | Okkadu |
+| tt5504168 | nm6044360 | 1 | 2 | 5.95 | Ravikanth Perepu | Kshanam |
+| tt0080684 | nm0449984 | 1 | 9 | 5.944444444444444 | Irvin Kershner | Star Wars: Episode V - The Empire Strikes Back |
+| tt1454029 | nm0853238 | 1 | 6 | 5.883333333333333 | Tate Taylor | The Help |
+| tt32134802 | nm16275551 | 1 | 2 | 5.8 | Sateesh Paramveda | Seetha Kalyana Vaibhogame |
+| tt32134802 | nm9511013 | 1 | 2 | 5.8 | Satish Paramvedha | Seetha Kalyana Vaibhogame |
+| tt0263208 | nm0149134 | 1 | 7 | 4.8428571428571425 | Sinan Çetin | Abbas in Flower |
+| tt0816258 | nm0700872 | 1 | 18 | 5.800000000000001 | Puri Jagannadh | Pokiri |
+| tt0117666 | nm0000671 | 1 | 3 | 5.933333333333334 | Billy Bob Thornton | Sling Blade |
+| tt0380275 | nm0500896 | 1 | 4 | 5.85 | David Leland | Concert for George |
+| tt4047112 | nm3607398 | 1 | 5 | 5.96 | Suseenthiran | Jeeva |
+
+[Back to report](../../REPORT.md)

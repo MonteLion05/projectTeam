@@ -1,0 +1,210 @@
+# open results
+
+Page 13 of 124 | Total data rows: 24,653
+
+[Back to report](../../REPORT.md) · [Previous](page-012.md) · [Next](page-014.md)
+
+| actor | director | collaborations | first_rating | later_mean | actor_name | director_name | rating_difference |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| nm1097432 | nm0586281 | 2 | 6.9 | 6.3 | Kiyoshirô Imawano | Takashi Miike | -0.6000000000000005 |
+| nm1097739 | nm0586281 | 3 | 6.9 | 6.1 | Kiyohiko Shibukawa | Takashi Miike | -0.8000000000000007 |
+| nm1177353 | nm0586281 | 2 | 6.6 | 6.9 | Yukie Itou | Takashi Miike | 0.3000000000000007 |
+| nm1303233 | nm0586281 | 3 | 7.5 | 6.199999999999999 | Takayuki Yamada | Takashi Miike | -1.3000000000000007 |
+| nm4445437 | nm0586281 | 3 | 6.3 | 6.7 | Sôta Fukushi | Takashi Miike | 0.40000000000000036 |
+| nm0193459 | nm0586281 | 2 | 7.0 | 6.8 | Mickey Curtis | Takashi Miike | -0.20000000000000018 |
+| nm0410832 | nm0586281 | 3 | 6.1 | 6.65 | Yûsuke Iseya | Takashi Miike | 0.5500000000000007 |
+| nm0849093 | nm0586281 | 2 | 6.5 | 6.1 | Yôji Tanaka | Takashi Miike | -0.40000000000000036 |
+| nm1107026 | nm0586281 | 3 | 6.9 | 6.4 | Ryôsuke Miki | Takashi Miike | -0.5 |
+| nm1118632 | nm0586281 | 2 | 7.0 | 7.2 | Kenta Kiritani | Takashi Miike | 0.20000000000000018 |
+| nm1323142 | nm0586281 | 2 | 7.3 | 6.1 | Ebizô Ichikawa | Takashi Miike | -1.2000000000000002 |
+| nm1523600 | nm0586281 | 2 | 7.0 | 7.2 | Yûsuke Izaki | Takashi Miike | 0.20000000000000018 |
+| nm1800338 | nm0586281 | 2 | 7.0 | 7.2 | Meisa Kuroki | Takashi Miike | 0.20000000000000018 |
+| nm3049870 | nm0586281 | 2 | 7.0 | 7.2 | Kaname Endô | Takashi Miike | 0.20000000000000018 |
+| nm0034984 | nm0586281 | 4 | 6.9 | 6.266666666666667 | Yoshiki Arizono | Takashi Miike | -0.6333333333333337 |
+| nm0386217 | nm0586281 | 3 | 6.6 | 6.7 | Sei Hiraizumi | Takashi Miike | 0.10000000000000053 |
+| nm0410903 | nm0586281 | 4 | 7.1 | 6.6 | Ryô Ishibashi | Takashi Miike | -0.5 |
+| nm0411692 | nm0586281 | 4 | 6.1 | 5.8 | Hideaki Itô | Takashi Miike | -0.2999999999999998 |
+| nm0879764 | nm0586281 | 2 | 6.7 | 6.1 | Yūya Uchida | Takashi Miike | -0.6000000000000005 |
+| nm0974515 | nm0586281 | 2 | 7.0 | 6.9 | Satoshi Niizuma | Takashi Miike | -0.09999999999999964 |
+| nm1158729 | nm0586281 | 2 | 6.8 | 6.9 | Yoshiyuki Daichi | Takashi Miike | 0.10000000000000053 |
+| nm1497676 | nm0586281 | 2 | 6.9 | 6.7 | Shigeo Kobayashi | Takashi Miike | -0.20000000000000018 |
+| nm2104632 | nm0586281 | 2 | 6.3 | 5.5 | Riko Narumi | Takashi Miike | -0.7999999999999998 |
+| nm0027942 | nm0586281 | 2 | 6.7 | 6.1 | Masanobu Andô | Takashi Miike | -0.6000000000000005 |
+| nm0393093 | nm0586281 | 2 | 6.7 | 6.2 | Hirotarō Honda | Takashi Miike | -0.5 |
+| nm0410902 | nm0586281 | 11 | 7.4 | 6.8 | Renji Ishibashi | Takashi Miike | -0.6000000000000005 |
+| nm0457240 | nm0586281 | 2 | 6.9 | 6.2 | Gorō Kishitani | Takashi Miike | -0.7000000000000002 |
+| nm1040419 | nm0586281 | 4 | 6.1 | 7.1 | Shun Oguri | Takashi Miike | 1.0 |
+| nm1126340 | nm0586281 | 3 | 6.3 | 6.05 | Ryūnosuke Kamiki | Takashi Miike | -0.25 |
+| nm1132550 | nm0586281 | 4 | 7.0 | 6.800000000000001 | Yusuke Kamiji | Takashi Miike | -0.1999999999999993 |
+| nm1523599 | nm0586281 | 2 | 7.0 | 7.2 | Hisato Izaki | Takashi Miike | 0.20000000000000018 |
+| nm1845696 | nm0586281 | 2 | 7.5 | 7.3 | Kazuki Namioka | Takashi Miike | -0.20000000000000018 |
+| nm2202409 | nm0586281 | 2 | 6.6 | 6.3 | Shôta Sometani | Takashi Miike | -0.2999999999999998 |
+| nm3042346 | nm0586281 | 2 | 6.5 | 6.6 | Takehiro Hira | Takashi Miike | 0.09999999999999964 |
+| nm3050429 | nm0586281 | 2 | 7.0 | 7.2 | Tsutomu Takahashi | Takashi Miike | 0.20000000000000018 |
+| nm0128378 | nm0586281 | 5 | 6.6 | 6.95 | Takeshi Caesar | Takashi Miike | 0.35000000000000053 |
+| nm0256861 | nm0586281 | 15 | 6.7 | 6.666666666666667 | Ken'ichi Endō | Takashi Miike | -0.033333333333333215 |
+| nm0652592 | nm0586281 | 3 | 6.6 | 6.699999999999999 | Ren Ōsugi | Takashi Miike | 0.09999999999999964 |
+| nm0793069 | nm0586281 | 3 | 6.2 | 6.1 | Kô Shibasaki | Takashi Miike | -0.10000000000000053 |
+| nm0945131 | nm0586281 | 2 | 7.5 | 7.3 | Kōji Yakusho | Takashi Miike | -0.20000000000000018 |
+| nm2306501 | nm0586281 | 2 | 6.7 | 5.9 | Masayuki Deai | Takashi Miike | -0.7999999999999998 |
+| nm1222820 | nm0589182 | 2 | 6.5 | 6.3 | Ryan McDonald | Rebecca Miller | -0.20000000000000018 |
+| nm0347375 | nm0589182 | 2 | 6.4 | 6.3 | Tim Guinee | Rebecca Miller | -0.10000000000000053 |
+| nm0893247 | nm0589182 | 2 | 6.3 | 6.4 | John Ventimiglia | Rebecca Miller | 0.10000000000000053 |
+| nm0001357 | nm0614195 | 4 | 6.2 | 5.75 | Paul Hogan | Dean Murphy | -0.4500000000000002 |
+| nm0006355 | nm0614195 | 3 | 6.2 | 5.75 | Roy Billing | Dean Murphy | -0.4500000000000002 |
+| nm0701747 | nm0617407 | 4 | 6.3 | 6.366666666666667 | Jasper Pääkkönen | Aleksi Mäkelä | 0.06666666666666732 |
+| nm0084969 | nm0617407 | 4 | 6.3 | 5.85 | Hannu-Pekka Björkman | Aleksi Mäkelä | -0.4500000000000002 |
+| nm1948103 | nm0617407 | 2 | 5.5 | 4.8 | Jussi Vatanen | Aleksi Mäkelä | -0.7000000000000002 |
+| nm0483888 | nm0617407 | 2 | 5.9 | 6.2 | Jussi Lampi | Aleksi Mäkelä | 0.2999999999999998 |
+| nm0904901 | nm0617407 | 2 | 7.1 | 6.2 | Kari Väänänen | Aleksi Mäkelä | -0.8999999999999995 |
+| nm0291918 | nm0617407 | 3 | 6.3 | 6.35 | Peter Franzén | Aleksi Mäkelä | 0.04999999999999982 |
+| nm0078725 | nm0630197 | 13 | 8.4 | 7.7 | Ion Besoiu | Sergiu Nicolaescu | -0.7000000000000002 |
+| nm0660233 | nm0630197 | 5 | 7.7 | 8.3 | Sebastian Papaiani | Sergiu Nicolaescu | 0.6000000000000005 |
+| nm0162524 | nm0630197 | 6 | 8.4 | 7.7 | Ilarion Ciobanu | Sergiu Nicolaescu | -0.7000000000000002 |
+| nm0229753 | nm0630197 | 5 | 7.7 | 7.5 | Alexandru Dobrescu | Sergiu Nicolaescu | -0.20000000000000018 |
+| nm0119860 | nm0630197 | 2 | 8.4 | 7.9 | Ioana Bulca | Sergiu Nicolaescu | -0.5 |
+| nm0586129 | nm0630197 | 5 | 7.7 | 7.900000000000001 | Ștefan Mihăilescu-Brăila | Sergiu Nicolaescu | 0.20000000000000107 |
+| nm0670946 | nm0630197 | 11 | 7.6 | 7.959999999999999 | Amza Pellea | Sergiu Nicolaescu | 0.35999999999999943 |
+| nm0227708 | nm0630197 | 10 | 7.7 | 7.7 | Gheorghe Dinica | Sergiu Nicolaescu | 0.0 |
+| nm0630197 | nm0630197 | 21 | 8.4 | 7.225 | Sergiu Nicolaescu | Sergiu Nicolaescu | -1.1750000000000007 |
+| nm0468240 | nm0630197 | 2 | 7.6 | 8.4 | György Kovács | Sergiu Nicolaescu | 0.8000000000000007 |
+| nm0233949 | nm0664582 | 3 | 7.0 | 6.2 | Marcin Dorocinski | Wladyslaw Pasikowski | -0.7999999999999998 |
+| nm0296809 | nm0664582 | 2 | 5.9 | 6.2 | Jan Frycz | Wladyslaw Pasikowski | 0.2999999999999998 |
+| nm3949598 | nm0664582 | 2 | 5.9 | 6.2 | Tomasz Schuchardt | Wladyslaw Pasikowski | 0.2999999999999998 |
+| nm0048121 | nm0664582 | 5 | 6.3 | 6.366666666666667 | Miroslaw Baka | Wladyslaw Pasikowski | 0.06666666666666732 |
+| nm0523820 | nm0664582 | 2 | 6.8 | 6.7 | Edward Linde-Lubaszenko | Wladyslaw Pasikowski | -0.09999999999999964 |
+| nm0952498 | nm0664582 | 4 | 6.3 | 7.15 | Zbigniew Zamachowski | Wladyslaw Pasikowski | 0.8500000000000005 |
+| nm0957468 | nm0664582 | 4 | 6.7 | 6.25 | Artur Zmijewski | Wladyslaw Pasikowski | -0.4500000000000002 |
+| nm0523821 | nm0664582 | 3 | 6.8 | 6.3 | Olaf Lubaszenko | Wladyslaw Pasikowski | -0.5 |
+| nm1522852 | nm0664582 | 3 | 7.3 | 7.0 | Ireneusz Czop | Wladyslaw Pasikowski | -0.2999999999999998 |
+| nm0511277 | nm0664582 | 9 | 6.8 | 6.7 | Boguslaw Linda | Wladyslaw Pasikowski | -0.09999999999999964 |
+| nm0668640 | nm0664582 | 6 | 6.8 | 6.675 | Cezary Pazura | Wladyslaw Pasikowski | -0.125 |
+| nm0844418 | nm0664582 | 2 | 6.8 | 6.3 | Tadeusz Szymków | Wladyslaw Pasikowski | -0.5 |
+| nm10036883 | nm0692652 | 2 | 5.7 | 5.8 | Shawn Wilson | Toby Poser | 0.09999999999999964 |
+| nm0000034 | nm0703689 | 2 | 6.9 | 6.2 | William Holden | Richard Quine | -0.7000000000000002 |
+| nm0002994 | nm0703689 | 2 | 6.9 | 6.6 | Kevin McCarthy | Richard Quine | -0.3000000000000007 |
+| nm0948685 | nm0703689 | 2 | 6.8 | 6.5 | Dick York | Richard Quine | -0.2999999999999998 |
+| nm0001571 | nm0703689 | 4 | 7.1 | 6.866666666666666 | Kim Novak | Richard Quine | -0.2333333333333334 |
+| nm0420383 | nm0703689 | 3 | 6.7 | 5.3 | Lionel Jeffries | Richard Quine | -1.4000000000000004 |
+| nm0000493 | nm0703689 | 6 | 6.8 | 6.6 | Jack Lemmon | Richard Quine | -0.20000000000000018 |
+| nm0468237 | nm0703689 | 4 | 6.5 | 6.833333333333333 | Ernie Kovacs | Richard Quine | 0.33333333333333304 |
+| nm0926897 | nm0703689 | 2 | 6.6 | 6.4 | Mary Wickes | Richard Quine | -0.1999999999999993 |
+| nm0640023 | nm0703689 | 2 | 7.4 | 6.5 | Arthur O'Connell | Richard Quine | -0.9000000000000004 |
+| nm1527905 | nm0716257 | 2 | 7.6 | 7.4 | Toby Kebbell | Matt Reeves | -0.1999999999999993 |
+| nm2240346 | nm0716257 | 2 | 7.1 | 7.6 | Kodi Smit-McPhee | Matt Reeves | 0.5 |
+| nm0785227 | nm0716257 | 3 | 7.6 | 7.6 | Andy Serkis | Matt Reeves | 0.0 |
+| nm0465269 | nm0716257 | 2 | 7.6 | 7.4 | Karin Konoval | Matt Reeves | -0.1999999999999993 |
+| nm1024953 | nm0716257 | 2 | 7.6 | 7.4 | Terry Notary | Matt Reeves | -0.1999999999999993 |
+| nm0001557 | nm0726000 | 2 | 6.7 | 5.8 | Viggo Mortensen | Philip Ridley | -0.9000000000000004 |
+| nm2788999 | nm0750121 | 2 | 6.3 | 5.1 | Jon Michael Davis | Simon Rumley | -1.2000000000000002 |
+| nm0025734 | nm0757790 | 2 | 7.8 | 7.7 | Giuseppe Anatrelli | Luciano Salce | -0.09999999999999964 |
+| nm0273090 | nm0757790 | 2 | 7.8 | 7.7 | Plinio Fernando | Luciano Salce | -0.09999999999999964 |
+| nm0714805 | nm0757790 | 4 | 7.8 | 7.7 | Gigi Reder | Luciano Salce | -0.09999999999999964 |
+| nm0660080 | nm0757790 | 4 | 7.8 | 7.35 | Paolo Paoloni | Luciano Salce | -0.4500000000000002 |
+| nm0563481 | nm0757790 | 4 | 7.8 | 7.7 | Anna Mazzamauro | Luciano Salce | -0.09999999999999964 |
+| nm0850214 | nm0759207 | 2 | 7.2 | 4.6 | Tom Tarantini | Victor Salva | -2.6000000000000005 |
+| nm0001153 | nm0759207 | 2 | 4.6 | 4.7 | Lesley-Anne Down | Victor Salva | 0.10000000000000053 |
+| nm0000448 | nm0759207 | 2 | 6.2 | 6.6 | Lance Henriksen | Victor Salva | 0.39999999999999947 |
+| nm0106534 | nm0759207 | 2 | 6.3 | 5.7 | Jonathan Breck | Victor Salva | -0.5999999999999996 |
+| nm0807503 | nm0759207 | 3 | 6.6 | 5.1 | Brandon Smith | Victor Salva | -1.5 |
+| nm0936403 | nm0759207 | 3 | 6.6 | 5.15 | Ray Wise | Victor Salva | -1.4499999999999993 |
+| nm0281329 | nm0774325 | 2 | 7.0 | 7.9 | James Flavin | Ernest B. Schoedsack | 0.9000000000000004 |
+| nm0166170 | nm0774325 | 3 | 7.0 | 6.75 | Steve Clemente | Ernest B. Schoedsack | -0.25 |
+| nm0035877 | nm0774325 | 5 | 7.0 | 6.833333333333333 | Robert Armstrong | Ernest B. Schoedsack | -0.16666666666666696 |
+| nm0717046 | nm0774325 | 3 | 7.9 | 6.0 | Frank Reicher | Ernest B. Schoedsack | -1.9000000000000004 |
+| nm0623854 | nm0774420 | 2 | 5.6 | 6.3 | Mehdi Nebbou | Frédéric Schoendoerffer | 0.7000000000000002 |
+| nm0865333 | nm0774420 | 2 | 5.4 | 6.3 | Bruno Todeschini | Frédéric Schoendoerffer | 0.8999999999999995 |
+| nm0777788 | nm0777788 | 5 | 5.5 | 5.799999999999999 | Matthias Schweighöfer | Matthias Schweighöfer | 0.29999999999999893 |
+| nm0456186 | nm0780547 | 2 | 6.4 | 7.4 | Luke Kirby | Amber Sealey | 1.0 |
+| nm0001108 | nm0784805 | 2 | 4.7 | 4.5 | Robert Davi | Giorgio Serafini | -0.20000000000000018 |
+| nm0005068 | nm0784805 | 3 | 3.8 | 4.45 | Vinnie Jones | Giorgio Serafini | 0.6500000000000004 |
+| nm0000185 | nm0784805 | 4 | 3.8 | 4.166666666666667 | Dolph Lundgren | Giorgio Serafini | 0.36666666666666714 |
+| nm0644524 | nm0794000 | 2 | 7.2 | 7.3 | Ken'ichi Ogata | Toshiya Shinohara | 0.09999999999999964 |
+| nm0875335 | nm0794000 | 4 | 7.2 | 7.366666666666666 | Kôji Tsujitani | Toshiya Shinohara | 0.16666666666666607 |
+| nm0950830 | nm0794000 | 4 | 7.2 | 7.366666666666666 | Satsuki Yukino | Toshiya Shinohara | 0.16666666666666607 |
+| nm0621454 | nm0794000 | 2 | 7.6 | 7.2 | Ken Narita | Toshiya Shinohara | -0.39999999999999947 |
+| nm0945322 | nm0794000 | 4 | 7.2 | 7.366666666666666 | Kappei Yamaguchi | Toshiya Shinohara | 0.16666666666666607 |
+| nm0476678 | nm0794000 | 4 | 7.2 | 7.366666666666666 | Houko Kuwashima | Toshiya Shinohara | 0.16666666666666607 |
+| nm0383022 | nm0794000 | 3 | 7.2 | 7.25 | Noriko Hidaka | Toshiya Shinohara | 0.04999999999999982 |
+| nm0913828 | nm0794000 | 4 | 7.2 | 7.366666666666666 | Kumiko Watanabe | Toshiya Shinohara | 0.16666666666666607 |
+| nm0549134 | nm0799033 | 2 | 6.7 | 6.2 | John Marley | Elliot Silverstein | -0.5 |
+| nm0088098 | nm0827171 | 2 | 5.0 | 4.0 | Jonah Blechman | Todd Stephens | -1.0 |
+| nm0574668 | nm0827171 | 3 | 6.7 | 6.0 | Stephanie McVay | Todd Stephens | -0.7000000000000002 |
+| nm0860690 | nm0827171 | 2 | 5.0 | 4.0 | Scott Thompson | Todd Stephens | -1.0 |
+| nm0174393 | nm0853130 | 2 | 7.1 | 7.6 | Jackie Condon | Sam Taylor | 0.5 |
+| nm0200068 | nm0853130 | 2 | 7.1 | 7.6 | Richard Daniels | Sam Taylor | 0.5 |
+| nm0205192 | nm0853130 | 2 | 7.1 | 8.1 | Mildred Davis | Sam Taylor | 1.0 |
+| nm0681933 | nm0853130 | 4 | 7.4 | 5.5 | Mary Pickford | Sam Taylor | -1.9000000000000004 |
+| nm0112234 | nm0853130 | 2 | 8.1 | 7.5 | Roy Brooks | Sam Taylor | -0.5999999999999996 |
+| nm0516001 | nm0853130 | 6 | 7.1 | 7.44 | Harold Lloyd | Sam Taylor | 0.34000000000000075 |
+| nm0397907 | nm0853130 | 2 | 7.1 | 7.3 | Wally Howe | Sam Taylor | 0.20000000000000018 |
+| nm0707814 | nm0853130 | 3 | 7.3 | 7.55 | Jobyna Ralston | Sam Taylor | 0.25 |
+| nm0318981 | nm0853130 | 2 | 7.1 | 7.3 | William Gillespie | Sam Taylor | 0.20000000000000018 |
+| nm0110393 | nm0853130 | 2 | 7.6 | 7.5 | Ethel Broadhurst | Sam Taylor | -0.09999999999999964 |
+| nm10571668 | nm0867784 | 3 | 6.5 | 5.9 | Katinka Lærke Petersen | Barbara Topsøe-Rothenborg | -0.5999999999999996 |
+| nm1046521 | nm0867784 | 3 | 6.5 | 5.9 | Lars Ranthe | Barbara Topsøe-Rothenborg | -0.5999999999999996 |
+| nm0007139 | nm0874676 | 2 | 6.6 | 6.6 | Hark Tsui | Eric Tsang | 0.0 |
+| nm0151827 | nm0874676 | 4 | 6.6 | 6.6 | Sylvia Chang | Eric Tsang | 0.0 |
+| nm0538353 | nm0874676 | 3 | 6.6 | 6.6 | Karl Maka | Eric Tsang | 0.0 |
+| nm0359171 | nm0874676 | 2 | 6.6 | 6.6 | Kwok-Choi Hon | Eric Tsang | 0.0 |
+| nm0401207 | nm0874676 | 2 | 6.6 | 6.6 | Sam Hui | Eric Tsang | 0.0 |
+| nm0000899 | nm0894787 | 2 | 5.5 | 5.9 | Monica Bellucci | Giovanni Veronesi | 0.40000000000000036 |
+| nm1249052 | nm0894787 | 3 | 5.5 | 5.75 | Riccardo Scamarcio | Giovanni Veronesi | 0.25 |
+| nm0748207 | nm0894787 | 6 | 6.3 | 5.55 | Sergio Rubini | Giovanni Veronesi | -0.75 |
+| nm0893872 | nm0894787 | 3 | 6.3 | 5.7 | Carlo Verdone | Giovanni Veronesi | -0.5999999999999996 |
+| nm0125540 | nm0894787 | 5 | 6.3 | 5.6 | Margherita Buy | Giovanni Veronesi | -0.7000000000000002 |
+| nm0610832 | nm0894787 | 2 | 5.8 | 6.3 | Silvio Muccino | Giovanni Veronesi | 0.5 |
+| nm1335782 | nm0894787 | 5 | 5.8 | 5.75 | Valeria Solarino | Giovanni Veronesi | -0.04999999999999982 |
+| nm0905102 | nm0905102 | 4 | 6.4 | 5.566666666666666 | Otto Waalkes | Otto Waalkes | -0.8333333333333339 |
+| nm0136468 | nm0905102 | 2 | 6.4 | 5.1 | Jessika Cardinahl | Otto Waalkes | -1.3000000000000007 |
+| nm0305447 | nm0905343 | 3 | 7.0 | 7.4 | Stênio Garcia | Andrucha Waddington | 0.40000000000000036 |
+| nm3067246 | nm0905343 | 4 | 5.3 | 5.2 | Eduardo Sterblitch | Andrucha Waddington | -0.09999999999999964 |
+| nm0001362 | nm0907779 | 2 | 7.1 | 6.4 | Bob Hope | Hal Walker | -0.6999999999999993 |
+| nm0001509 | nm0907779 | 4 | 5.5 | 6.15 | Dean Martin | Hal Walker | 0.6500000000000004 |
+| nm0551031 | nm0907779 | 2 | 6.1 | 6.2 | Marion Marshall | Hal Walker | 0.10000000000000053 |
+| nm0001471 | nm0907779 | 4 | 5.5 | 6.15 | Jerry Lewis | Hal Walker | 0.6500000000000004 |
+| nm0000366 | nm0912224 | 2 | 7.0 | 7.4 | Catherine Deneuve | Régis Wargnier | 0.40000000000000036 |
+| nm0756651 | nm0912224 | 2 | 7.0 | 6.5 | Hubert Saint-Macary | Régis Wargnier | -0.5 |
+| nm0199006 | nm0912224 | 2 | 7.0 | 5.6 | Linh-Dan Pham | Régis Wargnier | -1.4000000000000004 |
+| nm0749263 | nm0923736 | 2 | 8.0 | 7.3 | Mark Ruffalo | Joss Whedon | -0.7000000000000002 |
+| nm1165110 | nm0923736 | 2 | 8.0 | 7.3 | Chris Hemsworth | Joss Whedon | -0.7000000000000002 |
+| nm0277213 | nm0923736 | 2 | 7.8 | 7.0 | Nathan Fillion | Joss Whedon | -0.7999999999999998 |
+| nm0424060 | nm0923736 | 2 | 8.0 | 7.3 | Scarlett Johansson | Joss Whedon | -0.7000000000000002 |
+| nm0000375 | nm0923736 | 2 | 8.0 | 7.3 | Robert Downey Jr. | Joss Whedon | -0.7000000000000002 |
+| nm0163988 | nm0923736 | 2 | 8.0 | 7.0 | Clark Gregg | Joss Whedon | -1.0 |
+| nm0262635 | nm0923736 | 2 | 8.0 | 7.3 | Chris Evans | Joss Whedon | -0.7000000000000002 |
+| nm0536883 | nm0923736 | 2 | 7.8 | 7.0 | Sean Maher | Joss Whedon | -0.7999999999999998 |
+| nm0719637 | nm0923736 | 2 | 8.0 | 7.3 | Jeremy Renner | Joss Whedon | -0.7000000000000002 |
+| nm0000553 | nm0931251 | 2 | 6.0 | 4.9 | Liam Neeson | Mark Williams | -1.0999999999999996 |
+| nm1200517 | nm0945369 | 2 | 5.7 | 5.7 | Shôichirô Masumoto | Yūdai Yamaguchi | 0.0 |
+| nm0157120 | nm0945506 | 3 | 7.1 | 6.65 | Isshin Chiba | Yasuichirô Yamamoto | -0.4499999999999993 |
+| nm0468711 | nm0945506 | 3 | 6.9 | 6.5 | Rikiya Koyama | Yasuichirô Yamamoto | -0.40000000000000036 |
+| nm0149218 | nm0945506 | 8 | 7.6 | 6.885714285714286 | Chafurin | Yasuichirô Yamamoto | -0.7142857142857135 |
+| nm0644524 | nm0945506 | 6 | 7.6 | 6.779999999999999 | Ken'ichi Ogata | Yasuichirô Yamamoto | -0.8200000000000003 |
+| nm0370677 | nm0945506 | 9 | 7.6 | 6.75 | Megumi Hayashibara | Yasuichirô Yamamoto | -0.8499999999999996 |
+| nm0409287 | nm0945506 | 5 | 7.0 | 6.775 | Kazuhiko Inoue | Yasuichirô Yamamoto | -0.22499999999999964 |
+| nm0412520 | nm0945506 | 6 | 7.0 | 6.6 | Yukiko Iwai | Yasuichirô Yamamoto | -0.40000000000000036 |
+| nm0559471 | nm0945506 | 7 | 7.6 | 6.666666666666667 | Naoko Matsui | Yasuichirô Yamamoto | -0.9333333333333327 |
+| nm0906722 | nm0945506 | 10 | 7.6 | 6.800000000000001 | Wakana Yamazaki | Yasuichirô Yamamoto | -0.7999999999999989 |
+| nm0945322 | nm0945506 | 6 | 7.6 | 6.82 | Kappei Yamaguchi | Yasuichirô Yamamoto | -0.7799999999999994 |
+| nm0436776 | nm0945506 | 7 | 7.6 | 6.883333333333334 | Akira Kamiya | Yasuichirô Yamamoto | -0.7166666666666659 |
+| nm0649026 | nm0945506 | 3 | 6.3 | 6.65 | Ikue Otani | Yasuichirô Yamamoto | 0.35000000000000053 |
+| nm0394690 | nm0945506 | 2 | 7.6 | 7.1 | Ryo Horikawa | Yasuichirô Yamamoto | -0.5 |
+| nm0847085 | nm0945506 | 4 | 7.0 | 6.633333333333333 | Wataru Takagi | Yasuichirô Yamamoto | -0.36666666666666714 |
+| nm0847439 | nm0945506 | 10 | 7.6 | 6.800000000000001 | Minami Takayama | Yasuichirô Yamamoto | -0.7999999999999989 |
+| nm1111384 | nm0945506 | 2 | 7.2 | 6.9 | Atsuko Yuya | Yasuichirô Yamamoto | -0.2999999999999998 |
+| nm0484046 | nm0947445 | 2 | 6.8 | 6.2 | Lan Ding | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0001472 | nm0947445 | 2 | 6.8 | 6.2 | Jet Li | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0398929 | nm0947445 | 6 | 6.8 | 6.2 | Chunhua Ji | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0950494 | nm0947445 | 4 | 6.8 | 6.2 | Hai Yu | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0156965 | nm0947445 | 3 | 6.8 | 6.2 | Jianqiang Hu | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0401214 | nm0947445 | 3 | 6.8 | 6.2 | Chenghui Yu | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0474222 | nm0947445 | 3 | 6.8 | 6.2 | Jiankui Sun | Hsin-Yen Chang | -0.5999999999999996 |
+| nm0991774 | nm0948159 | 2 | 6.9 | 6.7 | Timmy Hung | Wilson Yip | -0.20000000000000018 |
+| nm0005033 | nm0948159 | 2 | 6.9 | 7.5 | Sammo Kam-Bo Hung | Wilson Yip | 0.5999999999999996 |
+| nm0155587 | nm0948159 | 4 | 6.7 | 7.166666666666667 | Kent Cheng | Wilson Yip | 0.4666666666666668 |
+| nm1414203 | nm0948159 | 3 | 8.0 | 7.25 | Lynn Xiong | Wilson Yip | -0.75 |
+| nm1789084 | nm0948159 | 2 | 6.7 | 8.0 | Xing Yu | Wilson Yip | 1.2999999999999998 |
+| nm2185928 | nm0948159 | 2 | 7.0 | 7.0 | Danny Kwok-Kwan Chan | Wilson Yip | 0.0 |
+
+[Back to report](../../REPORT.md) · [Previous](page-012.md) · [Next](page-014.md)

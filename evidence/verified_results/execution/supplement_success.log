@@ -1,0 +1,55 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/11/15 23:40:03 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+26/11/15 23:40:03 WARN MacAddressUtil: Failed to find a usable hardware address from the network interfaces; using random bytes: f8:cc:ce:f8:7c:78:5e:37
+
+
+
+
+
+
+
+
+
+
+
+                                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                
+
+
+
+
+
+
+                                                                                
+
+
+
+
+
+
+
+
+                                                                                
+VALIDATED Q8 role labels and row preservation; saved Q4 film titles and clean row counts.

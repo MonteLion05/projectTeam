@@ -1,0 +1,210 @@
+# open results
+
+Page 107 of 124 | Total data rows: 24,653
+
+[Back to report](../../REPORT.md) · [Previous](page-106.md) · [Next](page-108.md)
+
+| actor | director | collaborations | first_rating | later_mean | actor_name | director_name | rating_difference |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| nm0001099 | nm0268380 | 2 | 7.3 | 5.6 | Jeff Daniels | Peter Farrelly | -1.7000000000000002 |
+| nm0000369 | nm0268380 | 2 | 7.1 | 8.1 | Matt Dillon | Peter Farrelly | 1.0 |
+| nm0163939 | nm0268513 | 2 | 7.1 | 6.6 | Fred Clark | John Farrow | -0.5 |
+| nm0000078 | nm0268513 | 2 | 7.0 | 6.4 | John Wayne | John Farrow | -0.5999999999999996 |
+| nm0001537 | nm0268513 | 4 | 6.1 | 7.35 | Ray Milland | John Farrow | 1.25 |
+| nm0136994 | nm0268513 | 3 | 6.6 | 6.3 | Macdonald Carey | John Farrow | -0.2999999999999998 |
+| nm0916253 | nm0268513 | 2 | 7.6 | 7.1 | Richard Webb | John Farrow | -0.5 |
+| nm0057412 | nm0268513 | 2 | 7.1 | 6.2 | Wendy Barrie | John Farrow | -0.8999999999999995 |
+| nm0268119 | nm0268513 | 2 | 6.4 | 6.3 | David Farrar | John Farrow | -0.10000000000000053 |
+| nm0184578 | nm0268513 | 2 | 6.2 | 7.1 | Jerome Cowan | John Farrow | 0.8999999999999995 |
+| nm0215260 | nm0268513 | 3 | 6.6 | 6.1 | Albert Dekker | John Farrow | -0.5 |
+| nm0280707 | nm0268513 | 2 | 7.0 | 6.4 | Paul Fix | John Farrow | -0.5999999999999996 |
+| nm0000053 | nm0268513 | 2 | 6.7 | 7.0 | Robert Mitchum | John Farrow | 0.2999999999999998 |
+| nm0000063 | nm0268513 | 2 | 6.1 | 6.1 | Anthony Quinn | John Farrow | 0.0 |
+| nm0000790 | nm0268513 | 2 | 7.0 | 6.4 | James Arness | John Farrow | -0.5999999999999996 |
+| nm0888349 | nm0268513 | 2 | 6.7 | 7.0 | Philip Van Zandt | John Farrow | 0.2999999999999998 |
+| nm0001577 | nm0268513 | 3 | 6.5 | 7.15 | Maureen O'Sullivan | John Farrow | 0.6500000000000004 |
+| nm0530365 | nm0285090 | 3 | 6.9 | 6.15 | Sergi López | Frédéric Fonteyne | -0.75 |
+| nm0068551 | nm0340436 | 3 | 6.1 | 6.05 | Tobin Bell | Kevin Greutert | -0.04999999999999982 |
+| nm0541908 | nm0340436 | 3 | 6.1 | 6.05 | Costas Mandylor | Kevin Greutert | -0.04999999999999982 |
+| nm0809938 | nm0340436 | 2 | 6.1 | 6.6 | Shawnee Smith | Kevin Greutert | 0.5 |
+| nm0751018 | nm0340436 | 2 | 6.1 | 5.5 | Betsy Russell | Kevin Greutert | -0.5999999999999996 |
+| nm0531232 | nm0356931 | 2 | 6.2 | 6.1 | George Burr MacAnnan | Victor Halperin | -0.10000000000000053 |
+| nm0825398 | nm0377153 | 2 | 4.6 | 5.1 | Axel Stein | Granz Henman | 0.5 |
+| nm0525518 | nm0377153 | 2 | 6.5 | 5.1 | Florian Lukas | Granz Henman | -1.4000000000000004 |
+| nm0000553 | nm0378144 | 2 | 5.7 | 4.9 | Liam Neeson | Jonathan Hensleigh | -0.7999999999999998 |
+| nm0859197 | nm0378144 | 2 | 5.7 | 4.9 | Marcus Thomas | Jonathan Hensleigh | -0.7999999999999998 |
+| nm0438960 | nm0386729 | 3 | 7.2 | 6.1 | Toshiaki Karasawa | Yukio Ninagawa | -1.1000000000000005 |
+| nm3133754 | nm0393075 | 2 | 7.7 | 5.9 | Hamid Lolayi | Mohamad Reza Honarmand | -1.7999999999999998 |
+| nm0758912 | nm0404485 | 2 | 5.2 | 4.4 | Bruno Salomone | James Huth | -0.7999999999999998 |
+| nm0856500 | nm0404485 | 2 | 4.7 | 4.6 | Sylvie Testud | James Huth | -0.10000000000000053 |
+| nm0484005 | nm0404485 | 2 | 5.2 | 4.7 | Alexandra Lamy | James Huth | -0.5 |
+| nm0241121 | nm0404485 | 3 | 5.2 | 4.550000000000001 | Jean Dujardin | James Huth | -0.6499999999999995 |
+| nm0949210 | nm0404485 | 2 | 4.7 | 4.6 | Michaël Youn | James Huth | -0.10000000000000053 |
+| nm0509876 | nm0404485 | 2 | 6.7 | 5.2 | Patrick Ligardes | James Huth | -1.5 |
+| nm0180404 | nm0404485 | 2 | 5.2 | 4.4 | Clovis Cornillac | James Huth | -0.7999999999999998 |
+| nm0383422 | nm0419884 | 2 | 5.1 | 4.9 | John Michael Higgins | Vadim Jean | -0.1999999999999993 |
+| nm1391468 | nm0433895 | 2 | 7.7 | 7.1 | Akashdeep Saigal | K.V. Anand | -0.6000000000000005 |
+| nm1421814 | nm0433895 | 3 | 7.7 | 6.25 | Suriya | K.V. Anand | -1.4500000000000002 |
+| nm1488730 | nm0433895 | 2 | 6.7 | 6.2 | Thalaivasal Vijay | K.V. Anand | -0.5 |
+| nm3388887 | nm0433895 | 4 | 7.7 | 7.233333333333334 | Jagan | K.V. Anand | -0.4666666666666659 |
+| nm6780198 | nm0433895 | 2 | 6.3 | 6.7 | Shankar Krishnamurthy | K.V. Anand | 0.40000000000000036 |
+| nm0001324 | nm0437287 | 2 | 6.3 | 6.4 | Ian Hart | David Kane | 0.10000000000000053 |
+| nm0001517 | nm0437287 | 2 | 6.3 | 6.4 | Catherine McCormack | David Kane | 0.10000000000000053 |
+| nm0425005 | nm0440458 | 3 | 6.9 | 6.4 | Dwayne Johnson | Jake Kasdan | -0.5 |
+| nm1842974 | nm0440458 | 2 | 6.9 | 6.6 | Alex Wolff | Jake Kasdan | -0.3000000000000007 |
+| nm2679917 | nm0440458 | 2 | 6.9 | 6.6 | Nick Jonas | Jake Kasdan | -0.3000000000000007 |
+| nm3843144 | nm0440458 | 2 | 6.9 | 6.6 | Ser'Darius Blain | Jake Kasdan | -0.3000000000000007 |
+| nm5589690 | nm0440458 | 2 | 6.9 | 6.6 | Madison Iseman | Jake Kasdan | -0.3000000000000007 |
+| nm0269542 | nm0440458 | 2 | 6.9 | 5.1 | Nat Faxon | Jake Kasdan | -1.8000000000000007 |
+| nm0781981 | nm0440458 | 2 | 5.7 | 5.1 | Jason Segel | Jake Kasdan | -0.6000000000000005 |
+| nm0085312 | nm0440458 | 3 | 6.2 | 6.75 | Jack Black | Jake Kasdan | 0.5499999999999998 |
+| nm0000139 | nm0440458 | 2 | 5.7 | 5.1 | Cameron Diaz | Jake Kasdan | -0.6000000000000005 |
+| nm0366389 | nm0440458 | 2 | 6.9 | 6.6 | Kevin Hart | Jake Kasdan | -0.3000000000000007 |
+| nm2394794 | nm0440458 | 2 | 6.9 | 6.6 | Karen Gillan | Jake Kasdan | -0.3000000000000007 |
+| nm0657090 | nm0442454 | 2 | 7.6 | 7.2 | Kaija Pakarinen | Aki Kaurismäki | -0.39999999999999947 |
+| nm0671231 | nm0442454 | 6 | 7.0 | 7.279999999999999 | Matti Pellonpää | Aki Kaurismäki | 0.27999999999999936 |
+| nm0671326 | nm0442454 | 4 | 7.6 | 7.166666666666667 | Markku Peltola | Aki Kaurismäki | -0.4333333333333327 |
+| nm0405396 | nm0442454 | 2 | 6.8 | 7.2 | Janne Hyytiäinen | Aki Kaurismäki | 0.40000000000000036 |
+| nm0433520 | nm0442454 | 3 | 6.9 | 6.3 | Sakke Järvenpää | Aki Kaurismäki | -0.6000000000000005 |
+| nm0225789 | nm0442454 | 2 | 7.5 | 7.2 | Evelyne Didi | Aki Kaurismäki | -0.2999999999999998 |
+| nm0631741 | nm0442454 | 6 | 7.0 | 7.220000000000001 | Esko Nikkari | Aki Kaurismäki | 0.22000000000000064 |
+| nm0758825 | nm0442454 | 7 | 6.8 | 7.300000000000001 | Elina Salo | Aki Kaurismäki | 0.5000000000000009 |
+| nm0885417 | nm0442454 | 3 | 7.0 | 6.35 | Mato Valtonen | Aki Kaurismäki | -0.6500000000000004 |
+| nm0904901 | nm0442454 | 4 | 6.8 | 7.366666666666667 | Kari Väänänen | Aki Kaurismäki | 0.5666666666666673 |
+| nm0475411 | nm0442454 | 7 | 6.9 | 7.266666666666667 | Sakari Kuosmanen | Aki Kaurismäki | 0.36666666666666625 |
+| nm0710490 | nm0442454 | 2 | 7.4 | 6.8 | Mari Rantasila | Aki Kaurismäki | -0.6000000000000005 |
+| nm8631509 | nm0442454 | 2 | 7.2 | 7.2 | Sherwan Haji | Aki Kaurismäki | 0.0 |
+| nm0617394 | nm0442454 | 3 | 7.5 | 7.199999999999999 | Outi Mäenpää | Aki Kaurismäki | -0.3000000000000007 |
+| nm0648743 | nm0442454 | 2 | 7.6 | 6.8 | Matti Onnismaa | Aki Kaurismäki | -0.7999999999999998 |
+| nm0656999 | nm0442454 | 2 | 6.8 | 7.4 | Turo Pajala | Aki Kaurismäki | 0.6000000000000005 |
+| nm0932870 | nm0442454 | 3 | 7.5 | 7.0 | André Wilms | Aki Kaurismäki | -0.5 |
+| nm0529543 | nm0442454 | 2 | 7.1 | 7.5 | Jean-Pierre Léaud | Aki Kaurismäki | 0.40000000000000036 |
+| nm0638208 | nm0442454 | 2 | 6.9 | 7.2 | Tuomari Nurmio | Aki Kaurismäki | 0.2999999999999998 |
+| nm0653669 | nm0442454 | 9 | 7.4 | 7.2125 | Kati Outinen | Aki Kaurismäki | -0.1875 |
+| nm0676194 | nm0442454 | 2 | 6.9 | 6.8 | Pirkka-Pekka Petelius | Aki Kaurismäki | -0.10000000000000053 |
+| nm0784661 | nm0442454 | 3 | 7.0 | 6.55 | Silu Seppälä | Aki Kaurismäki | -0.4500000000000002 |
+| nm0838928 | nm0442454 | 2 | 7.0 | 5.6 | Mauri Sumén | Aki Kaurismäki | -1.4000000000000004 |
+| nm0596701 | nm0459567 | 7 | 5.3 | 4.9 | Paul Naschy | León Klimovsky | -0.39999999999999947 |
+| nm0162223 | nm0459567 | 3 | 4.9 | 4.9 | Luis Ciges | León Klimovsky | 0.0 |
+| nm0481591 | nm0491708 | 3 | 5.5 | 5.5 | Jean-Michel Lahmi | Eric Lavaine | 0.0 |
+| nm0548156 | nm0491708 | 3 | 5.8 | 5.7 | Anne Marivin | Eric Lavaine | -0.09999999999999964 |
+| nm0040005 | nm0491708 | 2 | 5.5 | 5.5 | Lionnel Astier | Eric Lavaine | 0.0 |
+| nm0484005 | nm0491708 | 3 | 5.8 | 5.7 | Alexandra Lamy | Eric Lavaine | -0.09999999999999964 |
+| nm0518653 | nm0491708 | 2 | 5.5 | 5.8 | Guilaine Londez | Eric Lavaine | 0.2999999999999998 |
+| nm0239498 | nm0491708 | 5 | 5.8 | 5.7 | Franck Dubosc | Eric Lavaine | -0.09999999999999964 |
+| nm0008506 | nm0491708 | 3 | 5.5 | 6.1 | Lionel Abelanski | Eric Lavaine | 0.5999999999999996 |
+| nm1569942 | nm0491708 | 5 | 6.1 | 5.65 | Jérôme Commandeur | Eric Lavaine | -0.4499999999999993 |
+| nm0000328 | nm0504513 | 4 | 6.8 | 6.633333333333333 | Richard Chamberlain | Richard Lester | -0.16666666666666696 |
+| nm0001133 | nm0504513 | 2 | 5.7 | 5.3 | Brian Dennehy | Richard Lester | -0.40000000000000036 |
+| nm0001659 | nm0504513 | 2 | 6.8 | 5.0 | Christopher Reeve | Richard Lester | -1.7999999999999998 |
+| nm0452288 | nm0504513 | 2 | 6.8 | 5.0 | Margot Kidder | Richard Lester | -1.7999999999999998 |
+| nm0922967 | nm0504513 | 2 | 6.8 | 5.6 | Jack Weston | Richard Lester | -1.2000000000000002 |
+| nm0000489 | nm0504513 | 3 | 7.1 | 6.4 | Christopher Lee | Richard Lester | -0.6999999999999993 |
+| nm0004309 | nm0504513 | 2 | 6.8 | 6.6 | Shirley Knight | Richard Lester | -0.20000000000000018 |
+| nm0365600 | nm0504513 | 2 | 7.5 | 7.1 | George Harrison | Richard Lester | -0.40000000000000036 |
+| nm0878240 | nm0504513 | 2 | 6.2 | 6.0 | Rita Tushingham | Richard Lester | -0.20000000000000018 |
+| nm0001321 | nm0504513 | 2 | 6.6 | 6.5 | Richard Harris | Richard Lester | -0.09999999999999964 |
+| nm0060023 | nm0504513 | 2 | 7.1 | 6.8 | Alfie Bass | Richard Lester | -0.2999999999999998 |
+| nm0186903 | nm0504513 | 3 | 6.2 | 6.15 | Michael Crawford | Richard Lester | -0.04999999999999982 |
+| nm0775870 | nm0504513 | 2 | 5.7 | 5.3 | John Schuck | Richard Lester | -0.40000000000000036 |
+| nm0827298 | nm0504513 | 2 | 5.0 | 5.3 | Pamela Stephenson | Richard Lester | 0.2999999999999998 |
+| nm0000079 | nm0504513 | 2 | 7.1 | 6.9 | Raquel Welch | Richard Lester | -0.1999999999999993 |
+| nm0006168 | nm0504513 | 3 | 7.5 | 6.3 | John Lennon | Richard Lester | -1.2000000000000002 |
+| nm0089944 | nm0504513 | 2 | 7.1 | 6.2 | John Bluthal | Richard Lester | -0.8999999999999995 |
+| nm0416378 | nm0504513 | 2 | 6.6 | 6.8 | Clifton James | Richard Lester | 0.20000000000000018 |
+| nm0818920 | nm0504513 | 2 | 7.5 | 7.1 | Victor Spinetti | Richard Lester | -0.40000000000000036 |
+| nm0823592 | nm0504513 | 2 | 7.5 | 7.1 | Ringo Starr | Richard Lester | -0.40000000000000036 |
+| nm0001036 | nm0504513 | 3 | 7.1 | 6.4 | Geraldine Chaplin | Richard Lester | -0.6999999999999993 |
+| nm0001186 | nm0504513 | 2 | 6.5 | 5.6 | Denholm Elliott | Richard Lester | -0.9000000000000004 |
+| nm0001657 | nm0504513 | 4 | 7.1 | 6.366666666666667 | Oliver Reed | Richard Lester | -0.7333333333333325 |
+| nm0005200 | nm0504513 | 2 | 7.5 | 7.1 | Paul McCartney | Richard Lester | -0.40000000000000036 |
+| nm0144045 | nm0504513 | 2 | 7.1 | 6.9 | Jean-Pierre Cassel | Richard Lester | -0.1999999999999993 |
+| nm0000125 | nm0504513 | 2 | 6.5 | 5.6 | Sean Connery | Richard Lester | -0.9000000000000004 |
+| nm0001868 | nm0504513 | 3 | 7.1 | 6.4 | Michael York | Richard Lester | -0.6999999999999993 |
+| nm0178114 | nm0504513 | 2 | 6.8 | 5.0 | Jackie Cooper | Richard Lester | -1.7999999999999998 |
+| nm0277975 | nm0504513 | 3 | 7.1 | 6.4 | Frank Finlay | Richard Lester | -0.6999999999999993 |
+| nm0394588 | nm0504513 | 2 | 6.8 | 5.5 | Michael Hordern | Richard Lester | -1.2999999999999998 |
+| nm0589711 | nm0504513 | 2 | 6.0 | 7.1 | Spike Milligan | Richard Lester | 1.0999999999999996 |
+| nm0000453 | nm0504513 | 2 | 6.6 | 6.5 | Ian Holm | Richard Lester | -0.09999999999999964 |
+| nm0455702 | nm0504513 | 8 | 7.1 | 6.3999999999999995 | Roy Kinnear | Richard Lester | -0.7000000000000002 |
+| nm0516001 | nm0516001 | 4 | 7.6 | 6.833333333333333 | Harold Lloyd | Harold Lloyd | -0.7666666666666666 |
+| nm0574743 | nm0516001 | 2 | 6.7 | 7.1 | Robert McWade | Harold Lloyd | 0.39999999999999947 |
+| nm0464945 | nm0538105 | 5 | 7.3 | 7.3 | Marek Kondrat | Janusz Majewski | 0.0 |
+| nm0624383 | nm0541244 | 8 | 6.5 | 7.3 | Toshie Negishi | Nobuhiko Ōbayashi | 0.7999999999999998 |
+| nm0654685 | nm0541244 | 2 | 7.2 | 7.3 | Kiyohiko Ozaki | Nobuhiko Ōbayashi | 0.09999999999999964 |
+| nm0000775 | nm0570912 | 2 | 7.1 | 6.3 | Christina Applegate | Adam McKay | -0.7999999999999998 |
+| nm0000288 | nm0570912 | 2 | 7.8 | 7.2 | Christian Bale | Adam McKay | -0.5999999999999996 |
+| nm0010736 | nm0570912 | 2 | 6.6 | 7.2 | Amy Adams | Adam McKay | 0.6000000000000005 |
+| nm0000604 | nm0570912 | 2 | 6.6 | 6.9 | John C. Reilly | Adam McKay | 0.3000000000000007 |
+| nm0462712 | nm0570912 | 2 | 7.1 | 6.3 | David Koechner | Adam McKay | -0.7999999999999998 |
+| nm0002071 | nm0570912 | 5 | 7.1 | 6.625 | Will Ferrell | Adam McKay | -0.47499999999999964 |
+| nm0748620 | nm0570912 | 2 | 7.1 | 6.3 | Paul Rudd | Adam McKay | -0.7999999999999998 |
+| nm0136797 | nm0570912 | 4 | 7.1 | 7.1000000000000005 | Steve Carell | Adam McKay | 8.881784197001252E-16 |
+| nm1063517 | nm0570912 | 2 | 7.1 | 6.9 | Kathryn Hahn | Adam McKay | -0.1999999999999993 |
+| nm0582890 | nm0578483 | 2 | 7.9 | 8.1 | Paul Meurisse | Jean-Pierre Melville | 0.1999999999999993 |
+| nm0716577 | nm0578483 | 2 | 7.7 | 8.1 | Serge Reggiani | Jean-Pierre Melville | 0.39999999999999947 |
+| nm0000901 | nm0578483 | 3 | 7.5 | 7.1 | Jean-Paul Belmondo | Jean-Pierre Melville | -0.40000000000000036 |
+| nm0001128 | nm0578483 | 3 | 8.0 | 7.45 | Alain Delon | Jean-Pierre Melville | -0.5499999999999998 |
+| nm0186567 | nm0578483 | 3 | 8.1 | 7.45 | Paul Crauchet | Jean-Pierre Melville | -0.6499999999999995 |
+| nm0282198 | nm0578483 | 2 | 7.5 | 6.6 | Colette Fleury | Jean-Pierre Melville | -0.9000000000000004 |
+| nm0730153 | nm0578483 | 2 | 7.6 | 6.9 | Jean-Marie Robain | Jean-Pierre Melville | -0.6999999999999993 |
+| nm0893341 | nm0578483 | 2 | 7.9 | 8.1 | Lino Ventura | Jean-Pierre Melville | 0.1999999999999993 |
+| nm0692680 | nm0578483 | 2 | 8.0 | 7.9 | Jean-Pierre Posier | Jean-Pierre Melville | -0.09999999999999964 |
+| nm0220852 | nm0578483 | 2 | 7.7 | 7.0 | Jean Desailly | Jean-Pierre Melville | -0.7000000000000002 |
+| nm0355610 | nm0578483 | 2 | 6.6 | 6.5 | Ginger Hall | Jean-Pierre Melville | -0.09999999999999964 |
+| nm0377306 | nm0578483 | 3 | 6.6 | 7.6 | Monique Hennessy | Jean-Pierre Melville | 1.0 |
+| nm0673749 | nm0578483 | 2 | 8.0 | 7.9 | François Périer | Jean-Pierre Melville | -0.09999999999999964 |
+| nm0836677 | nm0578483 | 2 | 7.6 | 6.9 | Nicole Stéphane | Jean-Pierre Melville | -0.6999999999999993 |
+| nm0001765 | nm0587518 | 2 | 6.9 | 6.4 | Harry Dean Stanton | John Milius | -0.5 |
+| nm0424565 | nm0587518 | 2 | 6.9 | 6.4 | Ben Johnson | John Milius | -0.5 |
+| nm0437076 | nm0587518 | 2 | 6.9 | 6.8 | Steve Kanaly | John Milius | -0.10000000000000053 |
+| nm0507212 | nm0587518 | 2 | 6.9 | 6.8 | Geoffrey Lewis | John Milius | -0.10000000000000053 |
+| nm0520068 | nm0587518 | 3 | 7.1 | 6.550000000000001 | Gerry Lopez | John Milius | -0.5499999999999989 |
+| nm0000748 | nm0599910 | 2 | 7.1 | 6.5 | Leon Ames | Robert Montgomery | -0.5999999999999996 |
+| nm0599910 | nm0599910 | 5 | 7.1 | 6.85 | Robert Montgomery | Robert Montgomery | -0.25 |
+| nm0076023 | nm0610831 | 2 | 6.9 | 5.9 | Lina Bernardi | Gabriele Muccino | -1.0 |
+| nm1968793 | nm0610831 | 2 | 6.1 | 6.7 | Carolina Crescentini | Gabriele Muccino | 0.6000000000000005 |
+| nm0009629 | nm0610831 | 3 | 5.9 | 6.4 | Stefano Accorsi | Gabriele Muccino | 0.5 |
+| nm0408234 | nm0610831 | 2 | 5.9 | 6.1 | Sabrina Impacciatore | Gabriele Muccino | 0.1999999999999993 |
+| nm1238739 | nm0610831 | 2 | 6.4 | 6.7 | Nicoletta Romanoff | Gabriele Muccino | 0.2999999999999998 |
+| nm0000226 | nm0610831 | 2 | 8.0 | 7.6 | Will Smith | Gabriele Muccino | -0.40000000000000036 |
+| nm0269419 | nm0610831 | 3 | 5.9 | 6.4 | Pierfrancesco Favino | Gabriele Muccino | 0.5 |
+| nm0610832 | nm0610831 | 2 | 6.3 | 6.4 | Silvio Muccino | Gabriele Muccino | 0.10000000000000053 |
+| nm0125608 | nm0613645 | 7 | 6.5 | 7.5 | Natalya Buzko | Kira Muratova | 1.0 |
+| nm0063332 | nm0613645 | 2 | 7.2 | 7.3 | Lidiya Bazilskaya | Kira Muratova | 0.09999999999999964 |
+| nm0750850 | nm0613645 | 7 | 7.2 | 7.5 | Nina Ruslanova | Kira Muratova | 0.2999999999999998 |
+| nm0295429 | nm0613996 | 2 | 7.4 | 6.8 | Georg Friedrich | Wolfgang Murnberger | -0.6000000000000005 |
+| nm0777649 | nm0613996 | 3 | 7.5 | 7.4 | Simon Schwarz | Wolfgang Murnberger | -0.09999999999999964 |
+| nm0352780 | nm0613996 | 4 | 7.5 | 7.333333333333333 | Josef Hader | Wolfgang Murnberger | -0.16666666666666696 |
+| nm1082477 | nm0619923 | 4 | 6.8 | 7.2 | Omar Sy | Olivier Nakache | 0.40000000000000036 |
+| nm0898653 | nm0619923 | 3 | 6.7 | 7.15 | Hélène Vincent | Olivier Nakache | 0.4500000000000002 |
+| nm1525639 | nm0619923 | 3 | 6.8 | 7.45 | Joséphine de Meaux | Olivier Nakache | 0.6500000000000004 |
+| nm1687861 | nm0619923 | 2 | 6.9 | 7.4 | Alban Ivanov | Olivier Nakache | 0.5 |
+| nm0071114 | nm0619923 | 2 | 6.8 | 6.4 | Jean Benguigui | Olivier Nakache | -0.39999999999999947 |
+| nm0008506 | nm0619923 | 2 | 6.0 | 6.4 | Lionel Abelanski | Olivier Nakache | 0.40000000000000036 |
+| nm0746162 | nm0619923 | 3 | 6.0 | 6.85 | Jean-Paul Rouve | Olivier Nakache | 0.8499999999999996 |
+| nm0339992 | nm0641007 | 3 | 7.3 | 6.5 | John Gregson | George More O'Ferrall | -0.7999999999999998 |
+| nm5266236 | nm0651184 | 2 | 3.4 | 3.1 | Maya Kay | Lisa Ortiz | -0.2999999999999998 |
+| nm0067146 | nm0652631 | 2 | 6.7 | 2.4 | Robert Quarry | Gerd Oswald | -4.300000000000001 |
+| nm0094789 | nm0681207 | 3 | 7.1 | 6.6 | Sandrine Bonnaire | Maurice Pialat | -0.5 |
+| nm0681207 | nm0681207 | 2 | 7.1 | 6.7 | Maurice Pialat | Maurice Pialat | -0.39999999999999947 |
+| nm0873516 | nm0681207 | 2 | 6.9 | 6.6 | Bernard Tronczak | Maurice Pialat | -0.3000000000000007 |
+| nm0000367 | nm0681207 | 4 | 6.6 | 6.6 | Gérard Depardieu | Maurice Pialat | 0.0 |
+| nm0000068 | nm0681635 | 2 | 6.4 | 6.1 | Randolph Scott | Irving Pichel | -0.3000000000000007 |
+| nm0001893 | nm0681635 | 2 | 6.3 | 6.1 | John Archer | Irving Pichel | -0.20000000000000018 |
+| nm0336455 | nm0681635 | 2 | 7.0 | 6.4 | Arnold Gray | Irving Pichel | -0.5999999999999996 |
+| nm0027566 | nm0681635 | 2 | 6.3 | 6.1 | Warner Anderson | Irving Pichel | -0.20000000000000018 |
+| nm0362815 | nm0681635 | 2 | 6.4 | 6.4 | Lumsden Hare | Irving Pichel | 0.0 |
+| nm0807354 | nm0681635 | 2 | 6.4 | 6.6 | Art Smith | Irving Pichel | 0.1999999999999993 |
+| nm0272432 | nm0681635 | 2 | 7.2 | 6.6 | Frank Ferguson | Irving Pichel | -0.6000000000000005 |
+| nm0694631 | nm0681635 | 2 | 7.2 | 6.3 | Tom Powers | Irving Pichel | -0.9000000000000004 |
+| nm0001385 | nm0694023 | 2 | 7.1 | 7.6 | Eric Idle | Aubrey Powell | 0.5 |
+| nm0001589 | nm0694023 | 2 | 7.1 | 7.6 | Michael Palin | Aubrey Powell | 0.5 |
+| nm0001402 | nm0694023 | 2 | 7.1 | 7.6 | Terry Jones | Aubrey Powell | 0.5 |
+| nm0000416 | nm0694023 | 2 | 7.1 | 7.6 | Terry Gilliam | Aubrey Powell | 0.5 |
+| nm0166470 | nm0694023 | 2 | 7.1 | 7.6 | Carol Cleveland | Aubrey Powell | 0.5 |
+| nm0000722 | nm0705535 | 2 | 6.4 | 6.7 | Joss Ackland | Michael Radford | 0.2999999999999998 |
+| nm0000457 | nm0705535 | 2 | 7.0 | 6.4 | John Hurt | Michael Radford | -0.5999999999999996 |
+| nm1455612 | nm0706615 | 2 | 4.7 | 3.8 | Kevin Ragsdale | Rich Ragsdale | -0.9000000000000004 |
+
+[Back to report](../../REPORT.md) · [Previous](page-106.md) · [Next](page-108.md)

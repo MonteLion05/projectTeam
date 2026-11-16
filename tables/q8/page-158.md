@@ -1,0 +1,210 @@
+# q8 results
+
+Page 158 of 232 | Total data rows: 46,330
+
+[Back to report](../../REPORT.md) · [Previous](page-157.md) · [Next](page-159.md)
+
+| nconst | career_roles | role_mode | films | mean_rating | mean_votes | primaryName | career_role_names |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| nm0461830 | 2 | single | 1 | 5.4 | 23955.0 | Mårten Knutsson | ["director","writer"] |
+| nm0461830 | 2 | multiple | 1 | 5.0 | 2107.0 | Mårten Knutsson | ["director","writer"] |
+| nm0463473 | 2 | single | 2 | 7.55 | 21131.0 | Greg Kohs | ["director","writer"] |
+| nm0463473 | 2 | multiple | 1 | 7.6 | 2021.0 | Greg Kohs | ["director","writer"] |
+| nm0464417 | 3 | multiple | 3 | 6.333333333333333 | 2046.0 | Róbert Koltai | ["actor","director","writer"] |
+| nm0464417 | 3 | single | 4 | 7.375 | 1480.5 | Róbert Koltai | ["actor","director","writer"] |
+| nm0464420 | 2 | single | 2 | 6.3 | 3607.5 | Sergey Koltakov | ["actor","writer"] |
+| nm0464846 | 3 | single | 6 | 6.833333333333333 | 38102.333333333336 | Andrei Konchalovsky | ["actor","director","writer"] |
+| nm0464846 | 3 | multiple | 14 | 6.735714285714286 | 5908.071428571428 | Andrei Konchalovsky | ["actor","director","writer"] |
+| nm0465349 | 2 | single | 7 | 7.128571428571428 | 1495.5714285714287 | Lambros Konstantaras | ["actor","writer"] |
+| nm0465716 | 2 | single | 9 | 7.522222222222222 | 2034.6666666666667 | Miloš Kopecký | ["actor","writer"] |
+| nm0473936 | 2 | single | 1 | 7.1 | 1877.0 | Kurt Kuenne | ["director","writer"] |
+| nm0473936 | 2 | multiple | 2 | 7.5 | 24609.5 | Kurt Kuenne | ["director","writer"] |
+| nm0474528 | 2 | multiple | 1 | 7.7 | 1692.0 | Lev Kulidzhanov | ["director","writer"] |
+| nm0474985 | 2 | single | 1 | 7.0 | 2154.0 | Dirk Kummer | ["actor","director"] |
+| nm0478243 | 2 | single | 13 | 4.769230769230769 | 7237.846153846154 | Cengiz Küçükayvaz | ["actor","writer"] |
+| nm0480308 | 2 | single | 7 | 6.957142857142857 | 28231.85714285714 | Ghalya Lacroix | ["actor","writer"] |
+| nm0482121 | 2 | single | 2 | 6.7 | 5475.5 | Arthur Lake | ["actor","writer"] |
+| nm0482232 | 3 | single | 3 | 5.633333333333333 | 4376.666666666667 | Apoorva Lakhia | ["actor","director","writer"] |
+| nm0482232 | 3 | multiple | 4 | 4.824999999999999 | 4573.75 | Apoorva Lakhia | ["actor","director","writer"] |
+| nm0482571 | 2 | single | 2 | 6.25 | 1457.5 | Bosco Lam | ["director","writer"] |
+| nm0482881 | 3 | single | 3 | 5.933333333333334 | 3638.0 | Fernando Lamas | ["actor","director","writer"] |
+| nm0485704 | 2 | single | 4 | 6.775 | 3139.5 | Charles Lang | ["actor","writer"] |
+| nm0485904 | 2 | single | 1 | 5.1 | 1709.0 | Samantha Lang | ["director","writer"] |
+| nm0486405 | 2 | single | 1 | 4.9 | 16566.0 | Stephen Langford | ["director","writer"] |
+| nm0490099 | 2 | single | 3 | 5.266666666666667 | 1762.3333333333333 | Larry Latham | ["actor","director"] |
+| nm0490771 | 2 | multiple | 2 | 5.75 | 2446.0 | Christoph Lauenstein | ["director","writer"] |
+| nm0491286 | 2 | multiple | 1 | 3.0 | 1874.0 | Fabrizio Laurenti | ["director","writer"] |
+| nm0491286 | 2 | single | 1 | 4.4 | 2721.0 | Fabrizio Laurenti | ["director","writer"] |
+| nm0491682 | 2 | multiple | 1 | 7.3 | 7779.0 | Jean-Claude Lauzon | ["director","writer"] |
+| nm0491682 | 2 | single | 1 | 7.1 | 9251.0 | Jean-Claude Lauzon | ["director","writer"] |
+| nm0492620 | 3 | single | 4 | 5.550000000000001 | 16548.0 | Andrew Lawrence | ["actor","director","writer"] |
+| nm0492620 | 3 | multiple | 2 | 4.5 | 3984.0 | Andrew Lawrence | ["actor","director","writer"] |
+| nm0492635 | 2 | single | 3 | 6.8 | 8805.333333333334 | Bert Lawrence | ["actor","writer"] |
+| nm0495285 | 2 | single | 1 | 6.2 | 2278.0 | Rex Lease | ["actor","writer"] |
+| nm0498270 | 2 | multiple | 2 | 6.050000000000001 | 2093.0 | Lee Soo-youn | ["director","writer"] |
+| nm0500148 | 2 | single | 2 | 4.1 | 2195.5 | Don Leifert | ["actor","writer"] |
+| nm0501165 | 3 | single | 1 | 4.4 | 1144.0 | Richard LeMay | ["actor","director","writer"] |
+| nm0501165 | 3 | multiple | 1 | 6.2 | 2126.0 | Richard LeMay | ["actor","director","writer"] |
+| nm0505810 | 2 | single | 1 | 5.9 | 4791.0 | Hank Levine | ["director","writer"] |
+| nm0506699 | 2 | single | 1 | 3.1 | 4626.0 | James Lew | ["actor","director"] |
+| nm0506699 | 2 | multiple | 1 | 3.8 | 1353.0 | James Lew | ["actor","director"] |
+| nm0507315 | 2 | single | 1 | 6.1 | 6867.0 | Jason J. Lewis | ["actor","director"] |
+| nm0508591 | 2 | single | 1 | 4.6 | 2256.0 | Pu-Liao Hsu | ["actor","director"] |
+| nm0509504 | 3 | single | 3 | 6.633333333333333 | 4632.666666666667 | Riton Liebman | ["actor","director","writer"] |
+| nm0509870 | 3 | multiple | 2 | 6.4 | 2043.0 | Luciano Ligabue | ["actor","director","writer"] |
+| nm0511458 | 3 | single | 8 | 7.7125 | 40460.375 | Gunnel Lindblom | ["actor","director","writer"] |
+| nm0513165 | 2 | single | 5 | 6.159999999999999 | 11334.6 | Art Linson | ["director","writer"] |
+| nm0515491 | 3 | multiple | 2 | 6.55 | 1156.5 | Carlo Lizzani | ["actor","director","writer"] |
+| nm0515491 | 3 | single | 4 | 6.949999999999999 | 6039.25 | Carlo Lizzani | ["actor","director","writer"] |
+| nm0515647 | 2 | single | 1 | 6.7 | 1072.0 | Julio Llamazares | ["director","writer"] |
+| nm0519969 | 2 | single | 5 | 6.6 | 16487.6 | Philippe Lopes-Curval | ["director","writer"] |
+| nm0524521 | 2 | single | 1 | 6.0 | 1460.0 | Rubens Francisco Lucchetti | ["actor","writer"] |
+| nm0525404 | 2 | single | 1 | 5.8 | 1259.0 | Jean Luisi | ["actor","writer"] |
+| nm0525773 | 3 | single | 7 | 6.9142857142857155 | 3218.0 | Andor Lukáts | ["actor","director","writer"] |
+| nm0526581 | 3 | single | 9 | 5.666666666666667 | 2711.4444444444443 | Maria Lundqvist | ["actor","director","writer"] |
+| nm0526794 | 3 | multiple | 1 | 6.8 | 2437.0 | Lian Lunson | ["actor","director","writer"] |
+| nm0526946 | 3 | multiple | 6 | 6.8500000000000005 | 5479.166666666667 | Ida Lupino | ["actor","director","writer"] |
+| nm0526946 | 3 | single | 24 | 6.7625 | 4757.666666666667 | Ida Lupino | ["actor","director","writer"] |
+| nm0530668 | 2 | multiple | 1 | 7.0 | 1231.0 | Orlando Lübbert | ["director","writer"] |
+| nm0531595 | 3 | multiple | 4 | 5.3 | 11688.5 | Adam MacDonald | ["actor","director","writer"] |
+| nm0531595 | 3 | single | 1 | 4.7 | 1980.0 | Adam MacDonald | ["actor","director","writer"] |
+| nm0534274 | 2 | single | 1 | 6.9 | 4210.0 | Arthur Macrae | ["actor","writer"] |
+| nm0538328 | 2 | single | 2 | 5.75 | 2343.5 | Michael Mak | ["director","writer"] |
+| nm0538443 | 2 | single | 12 | 6.341666666666666 | 43652.5 | Heike Makatsch | ["actor","writer"] |
+| nm0539275 | 3 | multiple | 1 | 7.0 | 1110.0 | Sarah Maldoror | ["actor","director","writer"] |
+| nm0539634 | 2 | single | 1 | 6.6 | 1171.0 | Isabelle Malin | ["actor","director"] |
+| nm0541954 | 2 | single | 1 | 8.0 | 6317.0 | Rea Manelli | ["actor","writer"] |
+| nm0544306 | 2 | single | 1 | 7.4 | 3592.0 | Guido Manuli | ["director","writer"] |
+| nm0544403 | 2 | single | 1 | 5.6 | 1095.0 | Manuel Manzaneque | ["actor","writer"] |
+| nm0544951 | 2 | single | 1 | 6.8 | 1580.0 | Peter Maravich | ["actor","writer"] |
+| nm0547966 | 2 | single | 32 | 6.84375 | 3125.28125 | Frances Marion | ["director","writer"] |
+| nm0548096 | 3 | single | 2 | 6.0 | 1420.5 | Georg Marischka | ["actor","director","writer"] |
+| nm0549125 | 3 | single | 2 | 6.9 | 167278.0 | Bob Marley | ["actor","director","writer"] |
+| nm0549283 | 2 | multiple | 1 | 8.3 | 6841.0 | James Marlowe | ["director","writer"] |
+| nm0549283 | 2 | single | 1 | 4.7 | 1303.0 | James Marlowe | ["director","writer"] |
+| nm0549478 | 2 | multiple | 1 | 3.6 | 1665.0 | Jean-Pierre Marois | ["director","writer"] |
+| nm0549650 | 3 | single | 7 | 6.171428571428571 | 6888.857142857143 | Christian Marquand | ["actor","director","writer"] |
+| nm0553796 | 3 | multiple | 4 | 6.025 | 10403.75 | Derick Martini | ["actor","director","writer"] |
+| nm0553941 | 2 | single | 6 | 6.033333333333334 | 4460.833333333333 | Sergio Martino | ["director","writer"] |
+| nm0553941 | 2 | multiple | 9 | 5.800000000000001 | 3757.222222222222 | Sergio Martino | ["director","writer"] |
+| nm0555617 | 2 | single | 13 | 6.961538461538462 | 15837.0 | Harpo Marx | ["actor","writer"] |
+| nm0555617 | 2 | multiple | 1 | 5.8 | 3401.0 | Harpo Marx | ["actor","writer"] |
+| nm0556573 | 2 | multiple | 5 | 4.84 | 4798.4 | Adam Mason | ["director","writer"] |
+| nm0556573 | 2 | single | 4 | 5.15 | 8496.5 | Adam Mason | ["director","writer"] |
+| nm0557948 | 2 | multiple | 1 | 6.7 | 1203.0 | Kôji Masunari | ["director","writer"] |
+| nm0559808 | 2 | single | 1 | 6.1 | 3792.0 | Alex Matter | ["director","writer"] |
+| nm0563300 | 2 | single | 1 | 4.8 | 1318.0 | Charles E. Mazin | ["actor","writer"] |
+| nm0563331 | 2 | single | 1 | 4.6 | 1081.0 | Michael Mazo | ["director","writer"] |
+| nm0563331 | 2 | multiple | 1 | 4.1 | 1284.0 | Michael Mazo | ["director","writer"] |
+| nm0563740 | 3 | single | 10 | 6.55 | 13076.0 | Aïssa Maïga | ["actor","director","writer"] |
+| nm0563814 | 2 | multiple | 1 | 5.8 | 4051.0 | John McKay | ["director","writer"] |
+| nm0563814 | 2 | single | 2 | 5.949999999999999 | 3360.5 | John McKay | ["director","writer"] |
+| nm0563997 | 2 | single | 3 | 6.733333333333334 | 1145.6666666666667 | Paul McAllister | ["actor","director"] |
+| nm0564254 | 2 | single | 2 | 5.550000000000001 | 10463.5 | George McGrath | ["actor","writer"] |
+| nm0565342 | 2 | multiple | 1 | 7.7 | 3451.0 | Todd McCarthy | ["director","writer"] |
+| nm0572870 | 3 | multiple | 1 | 6.0 | 1666.0 | Shelagh McLeod | ["actor","director","writer"] |
+| nm0573140 | 2 | single | 1 | 6.1 | 8406.0 | James McManus | ["actor","writer"] |
+| nm0573743 | 2 | single | 2 | 7.05 | 1424.0 | Tom McNamara | ["director","writer"] |
+| nm0576455 | 2 | single | 1 | 6.1 | 3313.0 | Mehmood Jr. | ["actor","director"] |
+| nm0579687 | 2 | multiple | 2 | 4.75 | 2403.0 | David Menkes | ["director","writer"] |
+| nm0582126 | 2 | single | 3 | 6.233333333333333 | 1759.6666666666667 | Marc Messier | ["actor","writer"] |
+| nm0582481 | 2 | single | 8 | 5.8 | 30192.625 | Tim Metcalfe | ["director","writer"] |
+| nm0582481 | 2 | multiple | 1 | 6.3 | 2518.0 | Tim Metcalfe | ["director","writer"] |
+| nm0582750 | 2 | multiple | 4 | 6.074999999999999 | 1771.5 | Radley Metzger | ["director","writer"] |
+| nm0582750 | 2 | single | 1 | 5.7 | 1521.0 | Radley Metzger | ["director","writer"] |
+| nm0582939 | 2 | single | 17 | 5.141176470588236 | 43299.35294117647 | Jason Mewes | ["actor","director"] |
+| nm0582939 | 2 | multiple | 1 | 5.5 | 2736.0 | Jason Mewes | ["actor","director"] |
+| nm0583332 | 2 | single | 4 | 7.300000000000001 | 3190.0 | Roberto Meyer | ["actor","writer"] |
+| nm0584427 | 2 | single | 1 | 6.5 | 94005.0 | Lorne Michaels | ["director","writer"] |
+| nm0584778 | 2 | multiple | 2 | 6.300000000000001 | 2763.0 | Oscar Micheaux | ["director","writer"] |
+| nm0585150 | 2 | single | 4 | 7.05 | 99936.25 | Dave Michener | ["director","writer"] |
+| nm0585150 | 2 | multiple | 1 | 7.1 | 60037.0 | Dave Michener | ["director","writer"] |
+| nm0586482 | 3 | single | 9 | 7.344444444444444 | 4262.444444444444 | Nikita Mikhalkov | ["actor","director","writer"] |
+| nm0586482 | 3 | multiple | 14 | 6.892857142857143 | 5718.428571428572 | Nikita Mikhalkov | ["actor","director","writer"] |
+| nm0589900 | 3 | single | 2 | 5.6 | 1883.5 | Angela Elayne Gibbs | ["actor","director","writer"] |
+| nm0594856 | 3 | single | 6 | 6.383333333333333 | 20742.666666666668 | Mathias Mlekuz | ["actor","director","writer"] |
+| nm0594892 | 2 | single | 1 | 7.0 | 7229.0 | Ariane Mnouchkine | ["director","writer"] |
+| nm0597390 | 3 | single | 9 | 7.044444444444445 | 10102.777777777777 | Kaori Momoi | ["actor","director","writer"] |
+| nm0598975 | 2 | single | 1 | 7.7 | 4265.0 | Indro Montanelli | ["director","writer"] |
+| nm0601077 | 2 | single | 1 | 5.5 | 2733.0 | Michael D. Moore | ["actor","director"] |
+| nm0602333 | 3 | multiple | 2 | 4.85 | 4178.0 | Philippe Mora | ["actor","director","writer"] |
+| nm0602333 | 3 | single | 5 | 5.220000000000001 | 5506.6 | Philippe Mora | ["actor","director","writer"] |
+| nm0603466 | 2 | single | 1 | 7.6 | 6146.0 | Dror Moreh | ["director","writer"] |
+| nm0604948 | 2 | single | 10 | 7.220000000000001 | 195681.0 | Peter Morgan | ["actor","writer"] |
+| nm0604948 | 2 | multiple | 1 | 6.1 | 18074.0 | Peter Morgan | ["actor","writer"] |
+| nm0605641 | 2 | single | 2 | 7.0 | 2763.5 | Toshiyuki Morioka | ["director","writer"] |
+| nm0606076 | 2 | single | 1 | 5.7 | 1183.0 | Mario Moroni | ["director","writer"] |
+| nm0608324 | 3 | single | 10 | 6.630000000000001 | 6768.5 | Denis Moschitto | ["actor","director","writer"] |
+| nm0612355 | 2 | single | 1 | 4.5 | 5897.0 | Mark Mullin | ["actor","writer"] |
+| nm0613833 | 2 | multiple | 2 | 7.3 | 3306.0 | Fredi M. Murer | ["director","writer"] |
+| nm0615889 | 2 | single | 1 | 7.6 | 5782.0 | Carlo Musso | ["director","writer"] |
+| nm0619076 | 2 | single | 3 | 5.366666666666667 | 1945.3333333333333 | Gô Nagai | ["actor","writer"] |
+| nm0620609 | 3 | single | 3 | 6.966666666666666 | 2275.0 | Yin Nam | ["actor","director","writer"] |
+| nm0620609 | 3 | multiple | 1 | 7.1 | 5493.0 | Yin Nam | ["actor","director","writer"] |
+| nm0622550 | 3 | single | 1 | 5.7 | 5959.0 | Greg Naughton | ["actor","director","writer"] |
+| nm0623783 | 2 | single | 3 | 7.1000000000000005 | 10905.0 | Holly Near | ["actor","writer"] |
+| nm0625186 | 2 | single | 2 | 6.5 | 3290.0 | Bob Nelson | ["actor","writer"] |
+| nm0625680 | 3 | multiple | 3 | 6.666666666666667 | 7380.666666666667 | Ralph Nelson | ["actor","director","writer"] |
+| nm0625680 | 3 | single | 11 | 6.6909090909090905 | 4442.545454545455 | Ralph Nelson | ["actor","director","writer"] |
+| nm0632700 | 3 | single | 1 | 7.1 | 5251.0 | Lane Nishikawa | ["actor","director","writer"] |
+| nm0637838 | 3 | single | 1 | 6.9 | 3742.0 | Garin Nugroho | ["actor","director","writer"] |
+| nm0638033 | 2 | multiple | 2 | 6.95 | 5786.0 | Victor Nunez | ["director","writer"] |
+| nm0638189 | 3 | single | 3 | 6.133333333333333 | 2617.0 | Lauri Nurkse | ["actor","director","writer"] |
+| nm0639033 | 2 | multiple | 2 | 6.85 | 12932.5 | Petter Næss | ["director","writer"] |
+| nm0639033 | 2 | single | 5 | 6.6 | 6260.8 | Petter Næss | ["director","writer"] |
+| nm0639348 | 2 | single | 1 | 5.5 | 4424.0 | Isadora O'Boto | ["actor","writer"] |
+| nm0643130 | 3 | multiple | 1 | 5.8 | 1625.0 | Agnès Obadia | ["actor","director","writer"] |
+| nm0643443 | 2 | single | 2 | 6.35 | 1169.0 | Arch Oboler | ["director","writer"] |
+| nm0643443 | 2 | multiple | 1 | 6.3 | 1963.0 | Arch Oboler | ["director","writer"] |
+| nm0643885 | 3 | single | 19 | 6.821052631578947 | 4018.4736842105262 | Joe Odagiri | ["actor","director","writer"] |
+| nm0645041 | 3 | single | 4 | 6.925000000000001 | 4440.25 | Stig Olin | ["actor","director","writer"] |
+| nm0647056 | 2 | single | 1 | 7.3 | 3090.0 | Javier Olivera | ["director","writer"] |
+| nm0647615 | 2 | single | 9 | 5.433333333333334 | 31202.777777777777 | Dana Olsen | ["actor","writer"] |
+| nm0650868 | 2 | single | 1 | 5.5 | 19111.0 | Ernie Ortega | ["actor","writer"] |
+| nm0651357 | 2 | single | 4 | 6.85 | 1683.75 | J.O.C. Orton | ["director","writer"] |
+| nm0651388 | 2 | multiple | 1 | 4.9 | 1638.0 | José Ortuño | ["director","writer"] |
+| nm0651807 | 3 | single | 13 | 6.6000000000000005 | 4401.846153846154 | Per Oscarsson | ["actor","director","writer"] |
+| nm0652302 | 2 | single | 1 | 6.4 | 1185.0 | Franz Osten | ["director","writer"] |
+| nm0655850 | 2 | multiple | 1 | 6.1 | 1627.0 | Carlus Padrissa | ["director","writer"] |
+| nm0656458 | 2 | single | 1 | 6.8 | 1046.0 | Klaus Pagh | ["actor","director"] |
+| nm0657155 | 2 | single | 2 | 5.800000000000001 | 3375.5 | Amrit Pal | ["actor","director"] |
+| nm0658836 | 3 | multiple | 1 | 5.7 | 5203.0 | Hervé Palud | ["actor","director","writer"] |
+| nm0658836 | 3 | single | 1 | 5.3 | 28078.0 | Hervé Palud | ["actor","director","writer"] |
+| nm0659609 | 2 | single | 3 | 7.266666666666667 | 3752.3333333333335 | Aleksandr Pankratov-Chyornyy | ["actor","director"] |
+| nm0659701 | 2 | multiple | 1 | 6.3 | 1096.0 | Tzimis Panousis | ["actor","writer"] |
+| nm0660327 | 2 | single | 22 | 6.9772727272727275 | 13062.181818181818 | Irene Papas | ["actor","director"] |
+| nm0660892 | 2 | single | 2 | 5.8 | 1263.5 | Herbert Simone Paragnani | ["director","writer"] |
+| nm0661577 | 3 | single | 12 | 6.441666666666666 | 13801.75 | Jerry Paris | ["actor","director","writer"] |
+| nm0661910 | 2 | multiple | 4 | 7.05 | 114109.5 | Nick Park | ["director","writer"] |
+| nm0661910 | 2 | single | 2 | 7.05 | 32919.5 | Nick Park | ["director","writer"] |
+| nm0662096 | 3 | single | 1 | 3.6 | 1778.0 | Brook Susan Parker | ["actor","director","writer"] |
+| nm0662180 | 2 | multiple | 2 | 4.6 | 8573.5 | Dave Parker | ["director","writer"] |
+| nm0662180 | 2 | single | 2 | 3.8000000000000003 | 26162.0 | Dave Parker | ["director","writer"] |
+| nm0662383 | 2 | multiple | 2 | 6.300000000000001 | 2404.5 | Jonathan Parker | ["director","writer"] |
+| nm0662493 | 2 | multiple | 1 | 5.7 | 1318.0 | Michael Parker | ["director","writer"] |
+| nm0664061 | 3 | single | 8 | 5.1125 | 4683.625 | Ross Partridge | ["actor","director","writer"] |
+| nm0664061 | 3 | multiple | 1 | 6.3 | 2509.0 | Ross Partridge | ["actor","director","writer"] |
+| nm0665091 | 2 | multiple | 1 | 7.2 | 2905.0 | Álvaro Pastor | ["director","writer"] |
+| nm0665993 | 2 | multiple | 1 | 6.0 | 1372.0 | Giuseppe Patroni Griffi | ["director","writer"] |
+| nm0665993 | 2 | single | 3 | 6.433333333333334 | 2341.6666666666665 | Giuseppe Patroni Griffi | ["director","writer"] |
+| nm0667412 | 3 | single | 1 | 5.2 | 1594.0 | Marco Pauly | ["actor","director","writer"] |
+| nm0669132 | 2 | single | 4 | 4.925 | 33800.75 | Randy Pearlstein | ["actor","writer"] |
+| nm0672032 | 2 | single | 2 | 7.05 | 13120.5 | Daniel Pennac | ["actor","writer"] |
+| nm0673229 | 3 | multiple | 1 | 6.8 | 1093.0 | Vincent Pereira | ["actor","director","writer"] |
+| nm0673229 | 3 | single | 1 | 6.2 | 22645.0 | Vincent Pereira | ["actor","director","writer"] |
+| nm0675102 | 2 | single | 4 | 4.975 | 33529.75 | J.J. Perry | ["actor","director"] |
+| nm0676336 | 3 | single | 1 | 5.7 | 12929.0 | Barbara Peeters | ["actor","director","writer"] |
+| nm0678101 | 2 | single | 2 | 6.8 | 6325.5 | Giulio Petroni | ["director","writer"] |
+| nm0681566 | 3 | single | 50 | 6.78 | 7338.96 | Michel Piccoli | ["actor","director","writer"] |
+| nm0681699 | 2 | single | 1 | 3.9 | 2362.0 | Jean-Marc Piché | ["director","writer"] |
+| nm0683597 | 3 | single | 1 | 7.6 | 1074.0 | Benoit Pilon | ["actor","director","writer"] |
+| nm0684525 | 2 | multiple | 1 | 3.2 | 1696.0 | Seth Pinsker | ["director","writer"] |
+| nm0686375 | 3 | single | 16 | 6.4375 | 4399.375 | Michele Placido | ["actor","director","writer"] |
+| nm0686375 | 3 | multiple | 3 | 6.833333333333333 | 5396.0 | Michele Placido | ["actor","director","writer"] |
+| nm0687739 | 3 | multiple | 6 | 6.849999999999999 | 1873.0 | Bill Plympton | ["actor","director","writer"] |
+| nm0687739 | 3 | single | 2 | 6.2 | 7568.0 | Bill Plympton | ["actor","director","writer"] |
+| nm0687940 | 2 | single | 3 | 5.633333333333333 | 4119.333333333333 | Rick Podell | ["actor","writer"] |
+| nm0687958 | 2 | single | 6 | 6.016666666666666 | 3519.1666666666665 | Rossana Podestà | ["actor","director"] |
+| nm0690770 | 3 | multiple | 3 | 5.6000000000000005 | 50688.333333333336 | DJ Pooh | ["actor","director","writer"] |
+
+[Back to report](../../REPORT.md) · [Previous](page-157.md) · [Next](page-159.md)

@@ -1,0 +1,655 @@
+{
+  "q1": {
+    "rows": 12619,
+    "preview": [
+      {
+        "tconst": "tt8273150",
+        "primaryTitle": "Logistics",
+        "genre": "Documentary",
+        "runtimeMinutes": "51420",
+        "genre_films": "82359",
+        "mean_minutes": "88.73883849973895",
+        "z_score": "193.98197229454684"
+      },
+      {
+        "tconst": "tt5136218",
+        "primaryTitle": "London EC1",
+        "genre": "Comedy",
+        "runtimeMinutes": "5460",
+        "genre_films": "92192",
+        "mean_minutes": "95.20311957653593",
+        "z_score": "192.99082337102075"
+      },
+      {
+        "tconst": "tt3854496",
+        "primaryTitle": "Ambiancé",
+        "genre": "Documentary",
+        "runtimeMinutes": "43200",
+        "genre_films": "82359",
+        "mean_minutes": "88.73883849973895",
+        "z_score": "162.91841032118325"
+      },
+      {
+        "tconst": "tt5068890",
+        "primaryTitle": "Hunger!",
+        "genre": "Drama",
+        "runtimeMinutes": "6000",
+        "genre_films": "184623",
+        "mean_minutes": "99.01700763176852",
+        "z_score": "162.24278900717528"
+      },
+      {
+        "tconst": "tt1806963",
+        "primaryTitle": "Matrjoschka",
+        "genre": "Drama",
+        "runtimeMinutes": "5700",
+        "genre_films": "184623",
+        "mean_minutes": "99.01700763176852",
+        "z_score": "153.9945299010058"
+      },
+      {
+        "tconst": "tt5136218",
+        "primaryTitle": "London EC1",
+        "genre": "Drama",
+        "runtimeMinutes": "5460",
+        "genre_films": "184623",
+        "mean_minutes": "99.01700763176852",
+        "z_score": "147.39592261607018"
+      },
+      {
+        "tconst": "tt12277054",
+        "primaryTitle": "Carnets Filmés (Liste Complète)",
+        "genre": "Documentary",
+        "runtimeMinutes": "28643",
+        "genre_films": "82359",
+        "mean_minutes": "88.73883849973895",
+        "z_score": "107.90718506008182"
+      },
+      {
+        "tconst": "tt5136218",
+        "primaryTitle": "London EC1",
+        "genre": "Mystery",
+        "runtimeMinutes": "5460",
+        "genre_films": "15645",
+        "mean_minutes": "96.69338446788112",
+        "z_score": "105.86136141800304"
+      },
+      {
+        "tconst": "tt0284020",
+        "primaryTitle": "The Cure for Insomnia",
+        "genre": "Music",
+        "runtimeMinutes": "5220",
+        "genre_films": "11924",
+        "mean_minutes": "94.63124790338813",
+        "z_score": "85.01968628908584"
+      },
+      {
+        "tconst": "tt3837350",
+        "primaryTitle": "A 2nd generation film",
+        "genre": "Drama",
+        "runtimeMinutes": "3077",
+        "genre_films": "184623",
+        "mean_minutes": "99.01700763176852",
+        "z_score": "81.87725111606382"
+      }
+    ],
+    "distinct_entities": 8940,
+    "genres": 27
+  },
+  "q2": {
+    "rows": 138,
+    "preview": [
+      {
+        "year": "2025",
+        "genre": "Drama",
+        "votes": "8650682",
+        "film_count": "4947",
+        "rank": "1"
+      },
+      {
+        "year": "2025",
+        "genre": "Action",
+        "votes": "7707298",
+        "film_count": "1237",
+        "rank": "2"
+      },
+      {
+        "year": "2025",
+        "genre": "Comedy",
+        "votes": "5903306",
+        "film_count": "2442",
+        "rank": "3"
+      }
+    ]
+  },
+  "q3": {
+    "rows": 92,
+    "preview": [
+      {
+        "year": "2025",
+        "bucket": "other",
+        "genre_memberships": "12712",
+        "distinct_films": "9779",
+        "votes": "34394233",
+        "mean_rating": "6.208343697003946",
+        "mean_minutes": "96.34738829452486",
+        "vote_share": "0.6070764791687814"
+      },
+      {
+        "year": "2025",
+        "bucket": "top3",
+        "genre_memberships": "8626",
+        "distinct_films": "7356",
+        "votes": "22261286",
+        "mean_rating": "6.206114828069078",
+        "mean_minutes": "102.3465105495015",
+        "vote_share": "0.39292352083121856"
+      }
+    ]
+  },
+  "q4": {
+    "rows": 47,
+    "preview": [
+      {
+        "nconst": "nm0001675",
+        "excellent": "1",
+        "other_count": "22",
+        "other_mean": "5.9409090909090905",
+        "excellent_film": "tt0401792",
+        "primaryName": "Robert Rodriguez"
+      },
+      {
+        "nconst": "nm0490487",
+        "excellent": "1",
+        "other_count": "21",
+        "other_mean": "5.995238095238095",
+        "excellent_film": "tt0338564",
+        "primaryName": "Wai Keung Lau"
+      },
+      {
+        "nconst": "nm0700872",
+        "excellent": "1",
+        "other_count": "18",
+        "other_mean": "5.800000000000001",
+        "excellent_film": "tt0816258",
+        "primaryName": "Puri Jagannadh"
+      },
+      {
+        "nconst": "nm0132709",
+        "excellent": "1",
+        "other_count": "16",
+        "other_mean": "5.91875",
+        "excellent_film": "tt0381061",
+        "primaryName": "Martin Campbell"
+      },
+      {
+        "nconst": "nm0796117",
+        "excellent": "1",
+        "other_count": "15",
+        "other_mean": "5.866666666666666",
+        "excellent_film": "tt0167404",
+        "primaryName": "M. Night Shyamalan"
+      },
+      {
+        "nconst": "nm0449984",
+        "excellent": "1",
+        "other_count": "9",
+        "other_mean": "5.944444444444444",
+        "excellent_film": "tt0080684",
+        "primaryName": "Irvin Kershner"
+      },
+      {
+        "nconst": "nm0149134",
+        "excellent": "1",
+        "other_count": "7",
+        "other_mean": "4.8428571428571425",
+        "excellent_film": "tt0263208",
+        "primaryName": "Sinan Çetin"
+      },
+      {
+        "nconst": "nm2134474",
+        "excellent": "1",
+        "other_count": "6",
+        "other_mean": "5.833333333333333",
+        "excellent_film": "tt3322420",
+        "primaryName": "Vikas Bahl"
+      },
+      {
+        "nconst": "nm0348015",
+        "excellent": "1",
+        "other_count": "6",
+        "other_mean": "5.383333333333333",
+        "excellent_film": "tt0366840",
+        "primaryName": "Gunasekhar"
+      },
+      {
+        "nconst": "nm1084488",
+        "excellent": "1",
+        "other_count": "6",
+        "other_mean": "5.583333333333333",
+        "excellent_film": "tt2283748",
+        "primaryName": "Umesh Shukla"
+      }
+    ],
+    "distinct_entities": 47
+  },
+  "q5": {
+    "rows": 546,
+    "preview": [
+      {
+        "parentTconst": "tt1796154",
+        "seasons": "20",
+        "last_season": "20",
+        "primaryTitle": "Papiny dochki",
+        "worst": "4.6",
+        "best": "8.5"
+      },
+      {
+        "parentTconst": "tt6953640",
+        "seasons": "13",
+        "last_season": "13",
+        "primaryTitle": "Roadkill",
+        "worst": "6.8",
+        "best": "9.5"
+      },
+      {
+        "parentTconst": "tt0369179",
+        "seasons": "12",
+        "last_season": "12",
+        "primaryTitle": "Two and a Half Men",
+        "worst": "3.6",
+        "best": "8.7"
+      },
+      {
+        "parentTconst": "tt4264964",
+        "seasons": "11",
+        "last_season": "11",
+        "primaryTitle": "Evening Urgant",
+        "worst": "7.2",
+        "best": "9.4"
+      },
+      {
+        "parentTconst": "tt0094514",
+        "seasons": "11",
+        "last_season": "11",
+        "primaryTitle": "Murphy Brown",
+        "worst": "5.9",
+        "best": "8.1"
+      },
+      {
+        "parentTconst": "tt6666966",
+        "seasons": "10",
+        "last_season": "10",
+        "primaryTitle": "Home Town",
+        "worst": "7.0",
+        "best": "9.3"
+      },
+      {
+        "parentTconst": "tt3107288",
+        "seasons": "9",
+        "last_season": "9",
+        "primaryTitle": "The Flash",
+        "worst": "3.8",
+        "best": "9.6"
+      },
+      {
+        "parentTconst": "tt0055662",
+        "seasons": "9",
+        "last_season": "9",
+        "primaryTitle": "The Beverly Hillbillies",
+        "worst": "5.8",
+        "best": "8.8"
+      },
+      {
+        "parentTconst": "tt0096560",
+        "seasons": "9",
+        "last_season": "9",
+        "primaryTitle": "Coach",
+        "worst": "6.7",
+        "best": "9.1"
+      },
+      {
+        "parentTconst": "tt0055710",
+        "seasons": "9",
+        "last_season": "9",
+        "primaryTitle": "The Virginian",
+        "worst": "5.2",
+        "best": "8.7"
+      }
+    ],
+    "distinct_entities": 546
+  },
+  "q6": {
+    "rows": 0,
+    "preview": [],
+    "distinct_entities": 0,
+    "actors_three_or_more_languages": 0
+  },
+  "q7": {
+    "rows": 5375,
+    "preview": [
+      {
+        "nconst": "nm0954674",
+        "first_year": "1966",
+        "last_year": "2016",
+        "films": "20",
+        "early_mean": "7.3",
+        "later_mean": "1.2",
+        "early_max": "7.3",
+        "later_max": "1.2",
+        "primaryName": "Jerzy Zelnik"
+      },
+      {
+        "nconst": "nm0847812",
+        "first_year": "1979",
+        "last_year": "2020",
+        "films": "23",
+        "early_mean": "7.1",
+        "later_mean": "1.1",
+        "early_max": "7.1",
+        "later_max": "1.1",
+        "primaryName": "Henryk Talar"
+      },
+      {
+        "nconst": "nm0960359",
+        "first_year": "1979",
+        "last_year": "2024",
+        "films": "33",
+        "early_mean": "7.0",
+        "later_mean": "1.1",
+        "early_max": "7.0",
+        "later_max": "1.1",
+        "primaryName": "Dénes Ujlaky"
+      },
+      {
+        "nconst": "nm0442626",
+        "first_year": "1980",
+        "last_year": "2017",
+        "films": "21",
+        "early_mean": "8.7",
+        "later_mean": "2.8",
+        "early_max": "8.7",
+        "later_max": "2.8",
+        "primaryName": "Maria Kavardjikova"
+      },
+      {
+        "nconst": "nm0043728",
+        "first_year": "1976",
+        "last_year": "2017",
+        "films": "47",
+        "early_mean": "8.033333333333333",
+        "later_mean": "3.1",
+        "early_max": "8.7",
+        "later_max": "3.1",
+        "primaryName": "Oya Aydogan"
+      },
+      {
+        "nconst": "nm1432432",
+        "first_year": "1981",
+        "last_year": "2020",
+        "films": "33",
+        "early_mean": "8.1",
+        "later_mean": "3.3",
+        "early_max": "8.2",
+        "later_max": "3.3",
+        "primaryName": "Ilham Shaheen"
+      },
+      {
+        "nconst": "nm0638976",
+        "first_year": "1975",
+        "last_year": "2016",
+        "films": "24",
+        "early_mean": "8.0",
+        "later_mean": "3.3",
+        "early_max": "8.0",
+        "later_max": "3.3",
+        "primaryName": "Petr Nárožný"
+      },
+      {
+        "nconst": "nm0695860",
+        "first_year": "1974",
+        "last_year": "2019",
+        "films": "19",
+        "early_mean": "8.0",
+        "later_mean": "3.3",
+        "early_max": "8.0",
+        "later_max": "3.3",
+        "primaryName": "Viktor Preiss"
+      },
+      {
+        "nconst": "nm0214961",
+        "first_year": "1993",
+        "last_year": "2025",
+        "films": "15",
+        "early_mean": "7.1",
+        "later_mean": "2.4",
+        "early_max": "7.1",
+        "later_max": "2.4",
+        "primaryName": "Ali Dehkordi"
+      },
+      {
+        "nconst": "nm0277298",
+        "first_year": "1969",
+        "last_year": "2019",
+        "films": "46",
+        "early_mean": "7.199999999999999",
+        "later_mean": "2.6",
+        "early_max": "7.8",
+        "later_max": "2.6",
+        "primaryName": "Albert Filozov"
+      }
+    ],
+    "distinct_entities": 5375
+  },
+  "q8": {
+    "rows": 46330,
+    "preview": [
+      {
+        "nconst": "nm0621937",
+        "career_roles": "3",
+        "role_mode": "single",
+        "films": "151",
+        "mean_rating": "6.644370860927154",
+        "mean_votes": "9636.324503311258",
+        "primaryName": "Nassar",
+        "career_role_names": "[\"actor\",\"director\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0695177",
+        "career_roles": "3",
+        "role_mode": "single",
+        "films": "150",
+        "mean_rating": "6.545333333333333",
+        "mean_votes": "10083.14",
+        "primaryName": "Prakash Raj",
+        "career_role_names": "[\"actor\",\"director\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0451600",
+        "career_roles": "3",
+        "role_mode": "single",
+        "films": "139",
+        "mean_rating": "6.149640287769785",
+        "mean_votes": "20408.877697841726",
+        "primaryName": "Anupam Kher",
+        "career_role_names": "[\"actor\",\"director\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0080238",
+        "career_roles": "3",
+        "role_mode": "single",
+        "films": "111",
+        "mean_rating": "6.454054054054055",
+        "mean_votes": "4375.8378378378375",
+        "primaryName": "Tanikella Bharani",
+        "career_role_names": "[\"actor\",\"director\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0000115",
+        "career_roles": "2",
+        "role_mode": "single",
+        "films": "104",
+        "mean_rating": "5.808653846153845",
+        "mean_votes": "85047.18269230769",
+        "primaryName": "Nicolas Cage",
+        "career_role_names": "[\"actor\",\"director\"]"
+      },
+      {
+        "nconst": "nm0000367",
+        "career_roles": "3",
+        "role_mode": "single",
+        "films": "103",
+        "mean_rating": "6.351456310679611",
+        "mean_votes": "13461.563106796117",
+        "primaryName": "Gérard Depardieu",
+        "career_role_names": "[\"actor\",\"director\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0000246",
+        "career_roles": "2",
+        "role_mode": "single",
+        "films": "100",
+        "mean_rating": "5.523",
+        "mean_votes": "154005.03",
+        "primaryName": "Bruce Willis",
+        "career_role_names": "[\"actor\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0482320",
+        "career_roles": "2",
+        "role_mode": "single",
+        "films": "100",
+        "mean_rating": "7.005999999999999",
+        "mean_votes": "6124.1",
+        "primaryName": "Mohanlal",
+        "career_role_names": "[\"actor\",\"director\"]"
+      },
+      {
+        "nconst": "nm0000353",
+        "career_roles": "2",
+        "role_mode": "single",
+        "films": "97",
+        "mean_rating": "6.448453608247423",
+        "mean_votes": "152383.70103092783",
+        "primaryName": "Willem Dafoe",
+        "career_role_names": "[\"actor\",\"writer\"]"
+      },
+      {
+        "nconst": "nm0000134",
+        "career_roles": "2",
+        "role_mode": "single",
+        "films": "97",
+        "mean_rating": "6.49278350515464",
+        "mean_votes": "183307.21649484537",
+        "primaryName": "Robert De Niro",
+        "career_role_names": "[\"actor\",\"director\"]"
+      }
+    ],
+    "distinct_entities": 37670
+  },
+  "open": {
+    "rows": 24653,
+    "preview": [
+      {
+        "actor": "nm0000032",
+        "director": "nm0000032",
+        "collaborations": "2",
+        "first_rating": "5.8",
+        "later_mean": "5.7",
+        "actor_name": "Charlton Heston",
+        "director_name": "Charlton Heston",
+        "rating_difference": "-0.09999999999999964"
+      },
+      {
+        "actor": "nm0000018",
+        "director": "nm0000040",
+        "collaborations": "2",
+        "first_rating": "8.4",
+        "later_mean": "7.9",
+        "actor_name": "Kirk Douglas",
+        "director_name": "Stanley Kubrick",
+        "rating_difference": "-0.5"
+      },
+      {
+        "actor": "nm0001330",
+        "director": "nm0000040",
+        "collaborations": "2",
+        "first_rating": "7.9",
+        "later_mean": "8.3",
+        "actor_name": "Sterling Hayden",
+        "director_name": "Stanley Kubrick",
+        "rating_difference": "0.40000000000000036"
+      },
+      {
+        "actor": "nm0535861",
+        "director": "nm0000040",
+        "collaborations": "2",
+        "first_rating": "8.2",
+        "later_mean": "8.1",
+        "actor_name": "Patrick Magee",
+        "director_name": "Stanley Kubrick",
+        "rating_difference": "-0.09999999999999964"
+      },
+      {
+        "actor": "nm0877185",
+        "director": "nm0000040",
+        "collaborations": "2",
+        "first_rating": "8.4",
+        "later_mean": "8.4",
+        "actor_name": "Joe Turkel",
+        "director_name": "Stanley Kubrick",
+        "rating_difference": "0.0"
+      },
+      {
+        "actor": "nm0798826",
+        "director": "nm0000040",
+        "collaborations": "2",
+        "first_rating": "5.3",
+        "later_mean": "6.5",
+        "actor_name": "Frank Silvera",
+        "director_name": "Stanley Kubrick",
+        "rating_difference": "1.2000000000000002"
+      },
+      {
+        "actor": "nm0000244",
+        "director": "nm0000116",
+        "collaborations": "4",
+        "first_rating": "8.4",
+        "later_mean": "7.533333333333334",
+        "actor_name": "Sigourney Weaver",
+        "director_name": "James Cameron",
+        "rating_difference": "-0.8666666666666663"
+      },
+      {
+        "actor": "nm0000701",
+        "director": "nm0000116",
+        "collaborations": "3",
+        "first_rating": "8.0",
+        "later_mean": "7.35",
+        "actor_name": "Kate Winslet",
+        "director_name": "James Cameron",
+        "rating_difference": "-0.6500000000000004"
+      },
+      {
+        "actor": "nm0601376",
+        "director": "nm0000116",
+        "collaborations": "3",
+        "first_rating": "7.9",
+        "later_mean": "7.35",
+        "actor_name": "Joel David Moore",
+        "director_name": "James Cameron",
+        "rating_difference": "-0.5500000000000007"
+      },
+      {
+        "actor": "nm0004908",
+        "director": "nm0000116",
+        "collaborations": "2",
+        "first_rating": "7.5",
+        "later_mean": "7.2",
+        "actor_name": "Edie Falco",
+        "director_name": "James Cameron",
+        "rating_difference": "-0.2999999999999998"
+      }
+    ]
+  }
+}

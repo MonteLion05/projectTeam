@@ -1,0 +1,58 @@
+[
+  {
+    "table": "title.ratings",
+    "url": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "sha256": "14e42302d0f1de365886b9b952c03cfeb1f857fd6b44c848641a17780c87f5ff",
+    "bytes": 8754824,
+    "rows_excluding_header": 1732558,
+    "retrieved_at_utc": "2026-11-15T22:04:51Z"
+  },
+  {
+    "table": "title.crew",
+    "url": "https://datasets.imdbws.com/title.crew.tsv.gz",
+    "sha256": "5c4e1bc0fe6d811b734f5b84c3af4bc3797eec2cf18db952bad23f2af390276f",
+    "bytes": 84113774,
+    "rows_excluding_header": 12965577,
+    "retrieved_at_utc": "2026-11-15T22:04:55Z"
+  },
+  {
+    "table": "title.episode",
+    "url": "https://datasets.imdbws.com/title.episode.tsv.gz",
+    "sha256": "c5d713deb83cb077e076a6a316aaae95b934ecd3618a3221e86246cf29a6560d",
+    "bytes": 55479900,
+    "rows_excluding_header": 10036861,
+    "retrieved_at_utc": "2026-11-15T22:04:59Z"
+  },
+  {
+    "table": "title.basics",
+    "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+    "sha256": "e35dfbd89aefba6fd1acb18a426b28f16b2bdf8477c40683843903a4a8a684c3",
+    "bytes": 230399464,
+    "rows_excluding_header": 12965577,
+    "retrieved_at_utc": "2026-11-15T22:05:00Z"
+  },
+  {
+    "table": "name.basics",
+    "url": "https://datasets.imdbws.com/name.basics.tsv.gz",
+    "sha256": "9b61fb50bde67d0dcab72a4d84bd38c296c8767e20e5709775260e158815c769",
+    "bytes": 312998451,
+    "rows_excluding_header": 15818137,
+    "retrieved_at_utc": "2026-11-15T22:05:06Z"
+  },
+  {
+    "table": "title.akas",
+    "url": "https://datasets.imdbws.com/title.akas.tsv.gz",
+    "sha256": "4e457a268aadbf4c16d92ab4610a54a33f26f36a65f68b2bf96b7a4a28b907b2",
+    "bytes": 523260850,
+    "rows_excluding_header": 60445719,
+    "retrieved_at_utc": "2026-11-15T22:05:30Z"
+  },
+  {
+    "table": "title.principals",
+    "url": "https://datasets.imdbws.com/title.principals.tsv.gz",
+    "sha256": "2a44ed6091eb0a87bcd072b638d2fb9ddc8921f89af80d8d73fe4646a7bc2e52",
+    "bytes": 790814465,
+    "rows_excluding_header": 102774786,
+    "retrieved_at_utc": "2026-11-15T22:05:38Z"
+  }
+]
