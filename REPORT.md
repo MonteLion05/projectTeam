@@ -1,4 +1,4 @@
-# IMDb Big Data Processing — Report — Group gr-04
+# Big Data Processing — Report — Group gr-04
 
 This report presents the available IMDb analysis results and explains the methods and their limits. The batch results are available, but Q6, full enrichment, live streaming measurements and detailed current-snapshot quality reports remain incomplete.
 
