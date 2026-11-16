@@ -338,5 +338,6 @@ Open a PR, request peer review, address comments and merge only after approval. 
 
 ## 14. AI and LLM assistance
 
-| Claude (Anthropic) | Lionel MONTEIRO WORA | Declaration retained from the original project: project analysis/work split, Docker/Spark/Kafka debugging, initial download/conversion and shared-module code, and initial document structure |
-| ChatGPT / OpenAI | Ahmed El Monaser | to clarify the project requirements, plan the implementation stages, understand and troubleshoot errors, and assist with data cleaning and code development.
+Claude (Anthropic) | Lionel MONTEIRO WORA | Declaration retained from the original project: project analysis/work split, Docker/Spark/Kafka debugging, initial download/conversion and shared-module code, and initial document structure 
+
+ ChatGPT / OpenAI | Ahmed El Monaser | to clarify the project requirements, plan the implementation stages, understand and troubleshoot errors, and assist with data cleaning and code development.
