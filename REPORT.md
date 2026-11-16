@@ -8,14 +8,6 @@ Contributors: Lionel MONTEIRO WORA and Ahmed El Monaser.
 
 The tables below are transcribed from saved outputs of the fresh-snapshot batch run. 
 
-Blue result links open Markdown tables directly in a rendered Markdown viewer. Large tables are divided into pages of up to 200 rows, with Previous and Next links. All rows and original CSV files are included. Keep the report and its accompanying folders together. Tables embedded below are excerpts.
-
-- [Source URLs, retrieval times and SHA256](evidence/verified_results/manifest.json)
-- [Executed SQL and output counts](evidence/verified_results/status.json)
-- [Cleaned table row counts](evidence/verified_results/clean_row_counts.json)
-- [Validation record](evidence/verified_results/VALIDATION.md)
-- [Execution logs](evidence/verified_results/execution/)
-
 | Section | Evidence status |
 |---|---|
 | Preparation | Cleaning executed; complete current-snapshot column-quality reports still need to be added |
