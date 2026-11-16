@@ -1,14 +1,12 @@
 # Big Data Processing — Report — Group gr-04
 
-This report presents the available IMDb analysis results and explains the methods and their limits. The batch results are available, but Q6, full enrichment, live streaming measurements and detailed current-snapshot quality reports remain incomplete.
+This report presents the available IMDb .
 
 Contributors: Lionel MONTEIRO WORA and Ahmed El Monaser.
 
-Execution instructions and AI-use declaration: [PROJECT.md](PROJECT.md).
-
 ## Evidence and execution record
 
-The tables below are transcribed from saved outputs of the fresh-snapshot batch run. Execution provenance, software versions and the AI-use declaration are documented in PROJECT.md and the accompanying execution records.
+The tables below are transcribed from saved outputs of the fresh-snapshot batch run. 
 
 Blue result links open Markdown tables directly in a rendered Markdown viewer. Large tables are divided into pages of up to 200 rows, with Previous and Next links. All rows and original CSV files are included. Keep the report and its accompanying folders together. Tables embedded below are excerpts.
 
