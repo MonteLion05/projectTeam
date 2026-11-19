@@ -311,12 +311,3 @@ The output contains 24,653 eligible actor/director pairs. The examples show both
 
 The query joins actor and director credits by film, orders collaborations over time and compares the first film rating with the mean of later ratings. This gives an interpretable comparison for each eligible pair. A mean can be influenced by extreme ratings, so a median or vote-weighted comparison would be useful alternatives. Same-person actor/director pairs are retained and should be distinguished from collaborations between two different people. Results also depend on credit coverage, rating eligibility and the ordering used when release years tie.
 
-## 6. Remaining work before declaring the report complete
-
-- Add current-snapshot detailed preparation evidence and the requested null ranking.
-- Complete Q6 with adequate film-language evidence.
-- Complete and measure full-scope enrichment, including at least three principals per film where required.
-- Record a real live streaming test with multiple matching events.
-- Review the explanations against the code and confirm that they reflect the contributors’ understanding.
-- Check that every linked evidence file is committed and corresponds to the declared snapshot.
-- Obtain the required peer reviews before merging the relevant PRs.
