@@ -252,28 +252,12 @@ Spark then normalises the text and joins it to IMDb records. Explicit missing an
 
 ## 4. Streaming data processing
 
-### 4.1 Live-test results
 
-**A completed live 15–30 minute test has not been supplied. Code existence is not test evidence.**
-
-| Metric | Observed value to enter |
-|---|---|
-| Start/end time and timezone | Not measured |
-| Observation duration | Not measured |
-| Captured and successfully delivered events | Not measured |
-| Delivery failures / queued events at exit | Not measured |
-| Distinct matching events and IMDb entities | Not measured |
-| Representative matching records | Not measured |
-| Throughput and batch timing | Not measured |
-| Reported watermark/state/late-row metrics | Not measured |
-
-Producer metrics, consumer progress logs and actual matching records are required to validate this stage.
-
-### 4.2 Late-arriving data
+### 4.1Late-arriving data
 
 The consumer implementation uses a ten-minute event-time watermark. This allows bounded handling of out-of-order events and limits state retention for relevant stateful operations. Events arriving beyond the applicable watermark may no longer contribute to those operations. The exact observed behaviour must be checked in the live consumer metrics. There are no measured late-row counts in the supplied evidence. A longer delay could accommodate later events but would retain state for longer.
 
-### 4.3 Methodological Explanation — Streaming
+### 4.2 Methodological Explanation — Streaming
 
 The producer sends live Wikipedia edit and new-page events to Kafka. Spark reads the stream and compares normalised page titles with IMDb film and person names. This is a simple candidate-matching approach, but shared names and ambiguous titles can create false matches. Entity identifiers would offer stronger matching where available.
 
