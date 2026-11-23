@@ -50,8 +50,6 @@ These are code parameters, not a methodological justification:
 | Q7 career/early period | At least 20 years and 15 recorded films; early first third; rating comparisons use films with ≥1,000 votes |
 | Q8 roles | Actor/director/writer; at least 2 career roles; film comparisons use ≥1,000 votes |
 
-The full SQL is in the linked execution record. There is no global release-year cutoff for every question.
-
 ### 2.1 Q1 — Duration outliers by genre
 
 **Full output: 12,619 film–genre rows, 8,940 distinct films, 27 genres.**
