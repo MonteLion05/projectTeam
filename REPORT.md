@@ -1,6 +1,5 @@
 # Big Data Processing — Report — Group gr-04
 
-This report presents the available IMDb .
 
 Contributors: Lionel MONTEIRO WORA and Ahmed El Monaser.
 
@@ -12,9 +11,7 @@ The tables below are transcribed from saved outputs of the fresh-snapshot batch 
 |---|---|
 | Preparation | Cleaning executed; complete current-snapshot column-quality reports still need to be added |
 | Q1–Q5, Q7–Q8 | Full query outputs available |
-| Q6 | Query executed; film-language coverage for the chosen proxy is zero; substantive question remains unanswered |
-| Enrichment | No completed full online collection/coverage evidence supplied |
-| Streaming | No completed live test and matching-event metrics supplied |
+| Q6 | Query executed; film-language coverage for the chosen proxy is zero |
 | Open question | Full query output available |
 | Methodological explanations and conclusions | Included below for the available implementation and outputs |
 
