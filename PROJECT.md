@@ -25,9 +25,7 @@ Repository: <https://github.com/MonteLion05/projectTeam>
 | Streaming | Producer/consumer implemented; no completed live 15–30 minute run with matching events and metrics demonstrated |
 | Report | Results and methodological discussion documented; missing experimental evidence identified |
 
-An empty Q6 output does **not** demonstrate that multilingual actors do not exist. The title-language proxy must be replaced or supplemented with verified film-language information to complete that question. Alternative-title translation languages must not be presented as proof of spoken/original film language.
 
-This guide does not claim that all assignment deliverables are complete. In particular, online enrichment, live streaming evidence and Q6 remain outstanding.
 
 ## 3. Repository contents and evidence integration
 
