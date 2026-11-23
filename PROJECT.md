@@ -22,7 +22,6 @@ Repository: <https://github.com/MonteLion05/projectTeam>
 | Exploration Q6 | Query executed, but inconclusive: the selected original-title-language proxy covered 0 of 431,386 eligible films |
 | Open question | Executed: first versus subsequent actor/director collaborations and film ratings |
 | Enrichment | Selection/join/coverage logic tested on synthetic data; full online text collection and coverage not demonstrated |
-| Streaming | Producer/consumer implemented; no completed live 15–30 minute run with matching events and metrics demonstrated |
 | Report | Results and methodological discussion documented; missing experimental evidence identified |
 
 
