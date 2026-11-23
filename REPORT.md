@@ -31,23 +31,7 @@ Raw counts are line counts excluding the TSV header. Clean counts are Spark tabl
 | title.principals | 102774786 | 102767310 |
 | title.ratings | 1732558 | 1732558 |
 
-### 1.2 Null, missing and empty values per column
 
-The complete current-snapshot column profile is not included in the supplied evidence. Separate null, literal `\N`, empty and combined-missing counts and percentages are still required.
-
-### 1.3 Five columns with the highest null percentage
-
-The requested null-only ranking is not available. The existing `top_five_missing` script ranks combined missing values, which is a different metric.
-
-### 1.4 Other quality issues and handling
-
-The pipeline handles casts, duplicate keys, value rules and orphan references. Detailed current-snapshot issue counts and audit reports are not supplied, so their frequencies cannot be reported here.
-
-### 1.5 Methodological Explanation
-
-The pipeline separates loading, value cleaning and reference checks. Reading the TSV fields as strings first avoids losing invalid values during automatic type inference. The data are then converted to Parquet for repeated Spark queries. Missing markers are normalised, types are converted safely, and invalid keys or references are filtered.
-
-An alternative is to query the TSV files directly. This uses less intermediate storage but repeats parsing and makes restarts slower. Parquet requires more disk space during preparation but supports reuse. Dropping invalid references makes joins more consistent, although it can remove records that contain some useful information. The row counts show the resulting table sizes; they do not measure every repair or replace the missing column-quality reports.
 
 ## 2. Data exploration
 
