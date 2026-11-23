@@ -49,17 +49,6 @@ This guide does not claim that all assignment deliverables are complete. In part
 | `evidence/verified_results/` | Committed small CSV outputs, manifests and execution evidence |
 | `data/`, `results/`, `spark-tmp/` | Local generated data; not versioned |
 
-### Integrate the executed-results handoff before merging this guide
-
-The `IMDb_Executed_Questions_Results.zip` handoff contains newer analytical code as well as results. Download it from the project handoff, extract it outside the repository, and:
-
-1. Merge the contents of `code/src/`, `code/jobs/` and `code/scripts/` into the matching repository directories. Preserve unrelated repository files. In particular, include `download_verified_snapshot.py`, `run_verified_questions.py` and the Q8 query with `career_role_names`.
-2. Place the handoff's CSV files, `manifest.json`, `status.json`, `clean_row_counts.json`, `q6_language_coverage.json`, `code_sha256.json` and `execution/` under `evidence/verified_results/`.
-3. Keep the evidence's `VALIDATION.md` with those files. Do not present the synthetic-test validation as full-data evidence.
-4. Review and commit the code and evidence through the group's PR workflow. A clone must contain these files; this guide alone does not add them.
-5. Check that the report matches the committed results and that the assistance declaration describes the work accurately.
-
-`q4_with_titles.csv` supplements Q4 with film names. Q8 has 46,330 comparison rows representing 37,670 people; one person can have both single-role and multiple-role rows. The handoff contains the complete result tables, not just previews.
 
 ## 4. Prerequisites
 
@@ -253,7 +242,7 @@ Use the same raw-data snapshot. For the Linux route, keep `DATA_DIR` and `RESULT
 .venv/bin/spark-submit --master 'local[2]' --driver-memory 4g jobs/finish_enrichment.py
 ```
 
-Replace `YOUR_EMAIL` with a real project contact. The collector resolves IMDb IDs through Wikidata P345 to English Wikipedia pages. Text comes from human-authored Wikipedia; it is not generated. Film Plot/Synopsis sections are preferred; introduction fallback is explicitly labelled. The code includes a configurable pause, retry/backoff behavior and a descriptive User-Agent. Operators must comply with applicable API and content-license policies.
+The collector resolves IMDb IDs through Wikidata P345 to English Wikipedia pages. Text comes from human-authored Wikipedia; it is not generated. Film Plot/Synopsis sections are preferred; introduction fallback is explicitly labelled. The code includes a configurable pause, retry/backoff behavior and a descriptive User-Agent. Operators must comply with applicable API and content-license policies.
 
 Selection is top ten films by votes per genre/year (1980–2025), with up to three available principal rows by ordering. Principal coverage is saved. This is not proof that every film has three distinct people or three retrieved biographies: inspect and remedy shortages before claiming the requirement is met.
 
