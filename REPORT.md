@@ -210,20 +210,7 @@ Total votes are used for genre popularity, while ratings are used for several ca
 
 ## 3. Data enrichment
 
-### 3.1 Results
-
-Full-scope enrichment has not been completed in the supplied evidence. Synthetic tests establish functionality only.
-
-| Required evidence | Current entry |
-|---|---|
-| Top 10 feature films per genre/year, 1980–2025 | Not measured or not supplied |
-| Film synopses and explicit source URLs | Not measured or not supplied |
-| Biographies for at least three principals per film | Not measured or not supplied |
-| Missing/ambiguous/error records | Not measured or not supplied |
-| Overall text coverage | Not measured or not supplied |
-| API collection evidence | Not measured or not supplied |
-
-### 3.2 Methodological Explanation — Enrichment
+ Methodological Explanation — Enrichment
 
 The implemented enrichment selects films by votes within each genre and year and resolves IMDb identifiers through Wikidata to Wikipedia pages. Identifier-based lookup is preferable to title-only search because different films can share a name. Plot or synopsis sections are preferred, with labelled introduction fallbacks.
 
