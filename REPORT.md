@@ -227,7 +227,7 @@ Full-scope enrichment has not been completed in the supplied evidence. Synthetic
 
 The implemented enrichment selects films by votes within each genre and year and resolves IMDb identifiers through Wikidata to Wikipedia pages. Identifier-based lookup is preferable to title-only search because different films can share a name. Plot or synopsis sections are preferred, with labelled introduction fallbacks.
 
-Spark then normalises the text and joins it to IMDb records. Explicit missing and error statuses allow coverage to be measured instead of silently dropping unsuccessful lookups. Wikipedia has uneven coverage, and API collection requires retry and rate-limit handling. Another source might improve coverage but would introduce different access and licensing constraints. Only synthetic joins are evidenced here; full collection quality and coverage have not been measured.
+Spark then normalises the text and joins it to IMDb records. Explicit missing and error statuses allow coverage to be measured instead of silently dropping unsuccessful lookups. Wikipedia has uneven coverage, and API collection requires retry and rate-limit handling. Another source might improve coverage but would introduce different access and licensing constraints. 
 
 ## 4. Streaming data processing
 
